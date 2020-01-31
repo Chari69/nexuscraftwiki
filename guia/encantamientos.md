@@ -2,14 +2,14 @@
 title: Guía de Encantamientos
 description: 
 published: true
-date: 2019-06-24T03:41:27.590Z
+date: 2020-01-29T16:55:15.257Z
 tags: 
 ---
 
 # Encantamientos
 
-![encantamientos0.png](/guiasimg/encantamientos0.png)
-![encantamientos.png](/guiasimg/encantamientos.png)
+![encantamientos0.png](/img/encantamientos0.png)
+![encantamientos.png](/img/encantamientos.png)
 
 ## Mejores encantamientos para cada herramienta
 **Nota:** Mending/Reparacion no se puede obtener mediante la mesa de encantamientos. Solo es obtenible pescando o comprandolo a un aldeano.
