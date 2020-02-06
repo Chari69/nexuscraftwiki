@@ -2,7 +2,7 @@
 title: ChaosEvent
 description: Eventos Super Especiales donde todos pasaremos un buen rato.
 published: true
-date: 2020-02-06T19:42:51.931Z
+date: 2020-02-06T19:45:08.206Z
 tags: 
 ---
 
