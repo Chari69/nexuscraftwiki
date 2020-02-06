@@ -2,7 +2,7 @@
 title: ChaosEvent
 description: Eventos Super Especiales donde todos pasaremos un buen rato.
 published: true
-date: 2020-02-06T19:37:29.663Z
+date: 2020-02-06T19:42:51.931Z
 tags: 
 ---
 
@@ -18,10 +18,15 @@ Pueden ocurrir en fechas especiales y en fines de semana principalmente.
 
 Su nombre deriva de la naturaleza propia de estos eventos, nunca sabes cuando podrán aparecer, y de que tratarán, solo dos cosas son seguras, habrá premios y diversión. 
 
+### ¿Donde se jugarán?
+
+A veces en Nexuscraft, otras en un servidor alterno, a veces puede ser en discord, segun el evento, segun donde se juegue.
+
 # Lista de ChaosEvents
 
 ## 1er ChaosEvent
 ### Survival Especial Snapshot 1.16
+
 Se trata de una partida survival donde la meta es obtener netherite, la duración del evento no está determinada, pero los primeros en obtener dicho material ya irán ganando premios,mientras más de este material mejor, pero no se preocupen, el reto de los objetos que obtengan igual son validos para su puntaje, los materiales nuevos del nether valen más!.
 
 ## 2do ChaosEvent
