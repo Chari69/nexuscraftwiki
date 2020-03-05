@@ -2,7 +2,7 @@
 title: ChaosEvent
 description: Eventos Super Especiales donde todos pasaremos un buen rato.
 published: true
-date: 2020-02-06T19:47:24.818Z
+date: 2020-03-05T19:37:35.438Z
 tags: 
 ---
 
@@ -30,5 +30,8 @@ A veces en Nexuscraft, otras en un servidor alterno, a veces puede ser en discor
 Se trata de una partida survival donde la meta es obtener netherite, la duración del evento no está determinada, pero los primeros en obtener dicho material ya irán ganando premios,mientras más de este material mejor, pero no se preocupen, el reto de los objetos que obtengan igual son validos para su puntaje, los materiales nuevos del nether valen más!.
 
 ## 2do ChaosEvent
-### O?e ?l?k S?r?i??l
-????
+### One Block Survival
+Un survival en donde los recursos se obtienen de un solo bloque.
+
+## 3er ChaosEvent
+### ???
