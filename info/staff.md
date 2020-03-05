@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-01-29T00:44:49.352Z
+date: 2020-03-05T19:16:39.357Z
 tags: 
 ---
 
@@ -15,22 +15,40 @@ Los miembros del staff actualmente son:
 - **Nate** - Moderador del Servidor.
 
 # Donadores
-El servidor no es gratuito, cuesta 5dls mensuales minimo, esto permite tener mejor rendimiento del servidor, mayor soporte para plugins, cantidad de jugadores al mismo tiempo ilimitada, tener un backup del servidor y sobre todo: Que el servidor pueda estar online 24/7 para que puedan jugar en cualquier momento.
+El servidor corre bajo un host de 3eros, lo cual requiere dinero para continuar manteniendo el servicio, esto permite tener mejor rendimiento del servidor, mayor soporte para plugins, cantidad de jugadores al mismo tiempo ilimitada, tener un backup del servidor y sobre todo: Que el servidor pueda estar online 24/7 para que puedan jugar en cualquier momento.
 
-Al donar 5 usd obtienes las siguientes recompenzas:
+Al donar 1 usd o más obtienes:
 
-- Rango "**Donador**" permantente en el servidor
-- 30 Niveles de Exp
-- 32 Lingotes de Hierro
+- Rango "**Apoyo**" permantente en el servidor
+- Tu nombre en el apartado de donadores.
 
-Al donar 10 usd obtienes:
+Al donar 5 usd o más obtienes las siguientes recompenzas:
+
+- Lo anterior 
+- Sustituir el rango **Apoyo** a **Donador**.
+- Uso sin limites del comando /skin.
+- Tu nombre en un mensaje en bucle en el servidor.
+- Tu item de cabeza de jugador.
+
+Al donar 10 usd o más obtienes:
 - Lo anterior+ 
-- Dos stacks de botellas de exp.
-- Un Item especial con tu nombre en la descripción.
+- Un Item custom especial con tu nombre en la descripción.
+- Crafteo exclusivo y personalizado de tu cabeza de jugador.
+- 2 Items de ChaosDrop a elección.
 - Poder sustituir rango "**Donador**" por un rango personalizado.
 
 
-Quien desee donar, puede hacerlo a traves de este link https://server.pro/server/12215678.
+Quien desee donar, puede hacerlo de dos formas,por donación directa, que unicamente acepta donativos fijos, esto server activo directamente ya que es pago al host, y por donación por Paypal, en la cual pueden donar la cantidad que deseen y al mismo tiempo de apoyar al servidor apoyas a sus dueños.
+Donativo directo: https://server.pro/server/12215678.
+Botón de donativo de apoyo: 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="karimtrix@hotmail.com" />
+<input type="hidden" name="item_name" value="Donativo para host y mantenimiento de Nexuscraft" />
+<input type="hidden" name="currency_code" value="MXN" />
+<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
+<img alt="" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 ## 2019
 ### Junio
@@ -46,8 +64,10 @@ Quien desee donar, puede hacerlo a traves de este link https://server.pro/server
 ### Diciembre
 - **NxKarim** - 5$
 ## 2020
-### Enero
+### Enero/Febrero
 - **Nate** - 5$
+### Febrero/Marzo
+- **PandaFujisaki** - 5$
 
 
 # Streamers
