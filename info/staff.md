@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-03-05T19:16:39.357Z
+date: 2020-03-05T19:20:30.912Z
 tags: 
 ---
 
@@ -41,14 +41,6 @@ Al donar 10 usd o más obtienes:
 Quien desee donar, puede hacerlo de dos formas,por donación directa, que unicamente acepta donativos fijos, esto server activo directamente ya que es pago al host, y por donación por Paypal, en la cual pueden donar la cantidad que deseen y al mismo tiempo de apoyar al servidor apoyas a sus dueños.
 Donativo directo: https://server.pro/server/12215678.
 Botón de donativo de apoyo: 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="karimtrix@hotmail.com" />
-<input type="hidden" name="item_name" value="Donativo para host y mantenimiento de Nexuscraft" />
-<input type="hidden" name="currency_code" value="MXN" />
-<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
-<img alt="" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
 ## 2019
 ### Junio
