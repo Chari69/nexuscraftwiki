@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-04-03T22:45:37.433Z
+date: 2020-04-03T22:58:27.682Z
 tags: 
 ---
 
@@ -37,6 +37,7 @@ Al donar 10 usd o más obtienes:
 - Poder sustituir rango "**Donador**" por un rango personalizado.
 - Una herramienta custom especial con tu nombre en la descripción.
 
+Las recompensas deben ser reclamadas en el periodo del donativo.
 
 Donativo directo: https://server.pro/server/12215678.
 
