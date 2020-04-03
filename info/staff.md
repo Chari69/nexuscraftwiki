@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-03-05T19:20:57.951Z
+date: 2020-04-03T22:18:04.028Z
 tags: 
 ---
 
@@ -38,9 +38,9 @@ Al donar 10 usd o más obtienes:
 - Poder sustituir rango "**Donador**" por un rango personalizado.
 
 
-Quien desee donar, puede hacerlo de dos formas,por donación directa, que unicamente acepta donativos fijos, esto server activo directamente ya que es pago al host, y por donación por Paypal, en la cual pueden donar la cantidad que deseen y al mismo tiempo de apoyar al servidor apoyas a sus dueños.
+
 Donativo directo: https://server.pro/server/12215678.
-Botón de donativo de apoyo: 
+
 
 ## 2019
 ### Junio
@@ -60,7 +60,8 @@ Botón de donativo de apoyo:
 - **Nate** - 5$
 ### Febrero/Marzo
 - **PandaFujisaki** - 5$
-
+### Abril 
+- **Wither** - 10$
 
 # Streamers
 - **Deanbits** - https://www.twitch.tv/deanbits
