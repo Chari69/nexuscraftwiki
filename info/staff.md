@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-04-03T22:28:12.072Z
+date: 2020-04-03T22:38:13.784Z
 tags: 
 ---
 
@@ -32,11 +32,10 @@ Al donar 5 usd o más obtienes las siguientes recompenzas:
 
 Al donar 10 usd o más obtienes:
 - Lo anterior+ 
-- Un Item custom especial con tu nombre en la descripción,(Limitado a Herramientas).
 - Crafteo exclusivo y personalizado de tu cabeza de jugador.
 - 2 Items de ChaosDrop a elección.
 - Poder sustituir rango "**Donador**" por un rango personalizado.
-
+- Una herramienta custom especial con tu nombre en la descripción.
 
 
 Donativo directo: https://server.pro/server/12215678.
