@@ -2,7 +2,7 @@
 title: Icevengers
 description: 
 published: true
-date: 2020-04-04T20:02:43.767Z
+date: 2020-04-04T20:08:06.903Z
 tags: 
 ---
 
@@ -17,16 +17,20 @@ Actualmente solo se sabe que sus objetivo es el siguiente:
 > - **Nico** en MD mientras jugaba Fortnite.
 
 ## Integrantes
-
+### Lideres
 - Nate 
 - PandaFujisaki
+- Nico
+### Miembros
 - Deanbits
 - Rocky
 - Yyeellooww (ya balio)
 - Sr Darius
 - Deemo
 - damgamez
-- xskayx
+- Nagatsuki
+- Alegrin
+- Frv
 
 ## Base Icevenger
 
