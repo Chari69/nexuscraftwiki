@@ -2,7 +2,7 @@
 title: Icevengers
 description: 
 published: true
-date: 2020-01-28T19:16:19.911Z
+date: 2020-04-04T19:59:42.610Z
 tags: 
 ---
 
@@ -15,3 +15,19 @@ El clan Icevengers (anteriormente conocido como Clan Blanco) es un clan liderado
 Actualmente solo se sabe que sus objetivo es el siguiente:
 > "Divertirnos y servir como material para streaming de Dean."
 > - **Nico** en MD mientras jugaba Fortnite.
+
+## Integrantes
+
+- Nate 
+- PandaFujisaki
+- Deanbits
+- Rocky
+- Yyeellooww (ya balio)
+- Sr Darius
+- Deemo
+- damgamez
+- xskayx
+
+## Base Icevenger
+
+???
