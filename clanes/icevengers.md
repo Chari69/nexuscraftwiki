@@ -2,7 +2,7 @@
 title: Icevengers
 description: 
 published: true
-date: 2020-04-04T20:10:20.088Z
+date: 2020-04-04T20:13:30.161Z
 tags: 
 ---
 
@@ -12,10 +12,12 @@ tags:
 El clan Icevengers (anteriormente conocido como Clan Blanco) es un clan liderado por los usuarios Nico, Nate y Panda el cual fue creado para que el [Clan Negro](./negroz) no les negreen ~~tan rapido~~.
 
 ## Objetivo del clan
-Actualmente solo se sabe que sus objetivo es el siguiente:
+El objetivo antiguo del clan era el siguiente:
 > "Divertirnos y servir como material para streaming de Dean."
 > - **Nico** en MD mientras jugaba Fortnite.
 
+El nuevo objetivo desde el inicio de la Natectadura:
+> ~~Destruir a los negroz~~ Construir diferentes bases/puntos de interés exclusivos del clan en diferentes biomas con sus toques de  entretenimiento para nuestros integrantes.
 ## Integrantes
 ### Lideres
 - Nate 
