@@ -2,7 +2,7 @@
 title: Clan Negro
 description: El clan negro es una doctrina tipo secta para alabar a sus dioses Negrozma y Abduzkan el pez
 published: true
-date: 2020-01-28T19:16:22.558Z
+date: 2020-04-04T20:02:41.325Z
 tags: 
 ---
 
@@ -17,3 +17,18 @@ El principal objetivo del clan es ~~matarlos a todos~~ construir un muro de obsi
 
 ![](https://static.miraheze.org/2builders2toolswiki/thumb/2/25/THEWALL1.png/300px-THEWALL1.png)
 ***Futuro muro de obsidiana en spawn***
+
+## Integrantes
+
+- Chari
+- Ant
+- Alan/Sadot
+- Andres
+- Manteka
+- Soon
+- Ozo
+- Naoto
+
+## Isla Negra
+
+???
