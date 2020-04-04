@@ -2,7 +2,7 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2020-01-28T22:58:54.992Z
+date: 2020-04-04T22:04:24.277Z
 tags: 
 ---
 
@@ -10,6 +10,144 @@ tags:
 {.is-success}
 # :fire: Changelog
 Aca se encuentran los cambios de cada version/update de NexusCraft Chaos.
+
+## Update 2.0.1
+### Un nuevo inicio.
+**Nueva Imagen**
+El logo estaba biejo, asi que ahora hay uno nuevo y mejorado, y nuebo de nacer.
+
+**Chaos Arena**
+La caja de bedrock, ahora es caotica pues es parte ahora de la Chaos Arena.
+
+**Otros cambios**
+Paper y Plugins actualizados.
+Ahora se puede regresar 9 de pedernal a grava.
+Ahora se puede decraftear los mecheros.
+Algunos errores de customcrafting reparados.
+Algunos errores de los chaosmob reparados.
+
+## Update 2.0.0
+### **The Beegest Update**
+
+ ¡¡¡¡Actualización a 1.15.2!!!!
+> ¡¡Ahora hay abejas!!
+> Es hora de por fin juntar abejas, colectar miel y ver el pasto crecer.
+> Pueden ver los cambios a 1.15 en el siguiente enlace:
+> https://www.minecraft.net/es-es/article/buzzy-bees-out-now-in-java
+> Ah y por fin hemos dejado Spigot!
+> **Paper 1.15.2, menos lag, menos bugs**
+> Y se mantiene la compatibilidad con 1.14.X!!
+> 
+> **Nuevo Toggle de PVP**
+> Hora es posible activar y desactivar el pvp para los miembros del staff, sin tener que reiniciar el servidor.
+
+> Eso es todo gracias por leer! kappa Es solo el comienzo
+
+**Chaos Arena**
+El caos en 0,0 ha incrementado demasiado, si se han dado cuenta el mapa poco a poco se iba corrompiendo más, bueno está corrupción parece ha terminado, le he nombrado Chaos Arena, ya que el terreno parece estar preparado para ello, ¿están listos para enfrentar a los Mobs del caos?
+
+**Mob Raids Update**
+> Los Chaos Revivals de:
+> **The Protector & The Armored**
+> **Ultimate Abduzkan**
+> **Muspellheim PigSurtr**
+> **Great Sticky Slime**
+> Ahora están disponibles y con el estreno de 2 nuevas, con esto todos los **Chaosmob Tier C** ya están disponibles de revivir!, son algo menos fuertes a los originales, pero igual es un buen rato,los crafteos a sus **Chaos Egg** Están en el book of knowledge como siempre.
+> 
+> Y mejor que nunca, ahora se muestran sus titulos al iniciar y una pantalla de victoria al terminar, los diálogos aparecerán en la parte superior de la hotbar, no se los pierdan!.
+
+**Chaos Items**
+> ¡Ahora es posible craftear los objetos de los chaosmob!
+> Tambien fueron actualizado los crafteos de los ChaosEggs
+> **The Protector & The Armored** ahora sueltan **Protector Barrier** y  **Armored Core**, con lo que podrán craftear **Protector Chesplate**, **Protector Bow** y **Armored Chesplate** , **Armored Sword** respectivamente.
+> 
+> **Ultimate Abduzkan**  ahora suelta **Abduzkan Spike** con lo que podrán craftear un tridente **Sobredosis** ||No lo vayan a revivir nomas pa drogarse||
+> 
+> **Muspellheim PigSurtr, Laevatein y Laegjarn**, ahora sueltan **Muspell Shard**  con lo que podrán craftear un hacha **Sinmara** o un escudo **Muspell Shield**, las armas de Leavatein y Laegjarn no serán crafteables de momento. ||TEME ANT, TIEMBLA||
+> 
+> **Great StickySlime** ahora suelta **Great Sticky Slimeball** con lo que podrán craftear ,**Slime Heart** (**Sticky Boots**será añadido en otra update) además que su vida y regeneración ahora estan reparados.
+> 
+> Todos estos crafteos igual pueden revisarlos desde su Knowledge Book, el cual ahora está actualizado para verse mas bonito.
+> Los **Chaos Items** crafteables son un poco peores que sus versiones originales, tiene su merito haber enfrentado por primera vez al Chaosmob ¿no es asi?
+> ||Todos los drops originales fueron actualizados y mejorados, portadores, sientan el poder del caos||
+
+**¡¿Más novedades de los crafteos custom?!**
+> **Actualización a varios objetos antiguos**
+> Abduzkan 50g, Perico,ChaosDiamond,Book of Knowledge, Lots of eyes, Rotten Rotten flesh han sido actualizados y versiones pasadas ya no pueden usarse en crafteos, sin embargo pueden corregir esto con poner el item viejo en la mesa de crafteo para de resultado tener el nuevo!.
+> 
+> **Book of knowledge** ahora se craftea con un libro y una mesa de crafteo.
+> 
+> **HyperGold** 
+> Oro cargado con magia negra, de momento se usa para hacer el chaosegg de PigSutr, pero tendrá un uso adicional mas adelante.
+> 
+> **Cuero Caotico**
+> Se hace con un Chaos Diamond y uno de Cuero
+> 
+> **¡Nuevo tipo de armadura!**
+> **Armadura Caotica** 
+> Se trata de una armadura de cuero, con estadísticas similares de una de diamante, mejor defensa menos durabilidad la ventaja es que se puede tintar para tener armadura del color que prefieran! Quiero ver esas armaduras de clanes!!
+
+> **De Rotten Rotten Flesh a Cuero**
+> Ahora es posible mediante un caldero, transformar Compressed Rotten Flesh en 1 de Cuero, solo pongan una campfire debajo de un caldero lleno de agua, tiren uno de Compressed Rotten Flesh, esperen un poco, y pum! tendrán uno de cuero, a veces suelta exp.
+> 
+> **Panecito Calientito**
+> Igual que el cuero, tira uno de trigo en un caldero, y en un momento tendrás masa de pan, ponlo en un Smoker para hacer pan calientito!.
+> 
+> **Almacenamiento de Verruga Abisal**
+> ¿Siempre fue molesto que los bloques de verruga no se pudieran descraftear verdad? Ahora ya pueden acumular, como les gusta.
+> 
+> **Desgarrar Lana**
+> Emm quien metio lana al stone cutter?
+> 
+> **Sonic Pickaxe**
+> Creado a partir de Chaos Emeralds, este pico intercambia tu velocidad de movimiento por velocidad al minar!
+> Gotta Go Fast
+
+> **Nexuscraft Wiki igual se actualiza**
+> Toda la información referente al servidor se encontrará en la wiki!
+> Aun está en obras y tal vez tarde un rato en estar completa pero podrán acudir a ella desde ahora para dudas que tengan.
+> Desde los Crafteos custom, hasta las Mobraids, todo estara disponible.
+> Hay algunas paginas interesantes, como el apartados de memes y la historia del servidor, pasen a leer la wiki cuando gusten!
+
+
+## Update 1.3.6
+### **Los colores del alma**
+
+> **Nuevo Chaosmob**
+> **Spiritus Umbra**
+> Nuevas mecánicas graficas durante Mob Raids, (Temporalmente los chaos revival están desactivados en lo que se actualizan todos)
+
+> **Items Nuevos**
+> - Sopa Abduzkan
+> - Spirit Wings
+> - Spirit Fragment  
+
+> **Cambios en Plugins**
+> CustomCrafting Actualizado
+> Deathcoordinates Actualizado
+
+> **Nuevo Plugin** 
+> Colored Anvils 
+> Ahora es posible usar códigos de formato, para dar colores a ítems, armas y herramientas desde el yunque.
+
+## Update 1.3.5
+### Abduzkan & Decrafting Update
+
+> Cambiado: 
+> Abduzkan: Ahora ocupa 8 Perico.
+
+> Añadido:
+> Book of Knowledge: ``Permite ver las recetas custom se hace con 3 libros``
+
+> Descrafteos:
+> Escaleras, Vallas, Tazón y Andamios.
+
+> Fundición:  
+> Hoppers, Railes, Cubetas y Minecarts
+ 
+> **Nuevo ChaosMob Revival**
+> **Ultimate Abduzkan**
+> Añadido: **ChaosEgg Ultimate Abduzkan**
 ## Update 1.3.4
 
  **Custom Crafting completamente implementado.**
