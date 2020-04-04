@@ -2,7 +2,7 @@
 title: Clan Negro
 description: El clan negro es una doctrina tipo secta para alabar a sus dioses Negrozma y Abduzkan el pez
 published: true
-date: 2020-04-04T20:02:41.325Z
+date: 2020-04-04T20:09:55.917Z
 tags: 
 ---
 
@@ -19,10 +19,14 @@ El principal objetivo del clan es ~~matarlos a todos~~ construir un muro de obsi
 ***Futuro muro de obsidiana en spawn***
 
 ## Integrantes
-
+### Lideres
+Los negros se manejan por comunismo, todos son negros y es lo que importa
+pero suelen seguir a: 
 - Chari
 - Ant
 - Alan/Sadot
+### Miembros
+Comunismo aun.
 - Andres
 - Manteka
 - Soon
