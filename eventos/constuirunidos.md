@@ -2,7 +2,7 @@
 title: Construyendo Unidos
 description: Evento permanente en el server donde cada cierto tiempo se da una tematica a construir entre todos, y se otorgan premios acorde a lo creado!
 published: true
-date: 2020-04-06T23:53:50.929Z
+date: 2020-04-07T00:18:28.744Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Para ser mas especificos, si solo un jugador construye algo, se llevará el prem
 # Eventos hasta ahora.
 
 ## No. 1 Abejas
-**Tipo de** construccion: Libre
+**Tipo de construccion:** Libre
 **Periodo:** 20 de Marzo 2020 a 06 de Abril 2020
 **Premios:** 
 - 16 Honey Bottles
@@ -40,4 +40,18 @@ Para ser mas especificos, si solo un jugador construye algo, se llevará el prem
 > De un lado de otro lado y de frente, cuesta trabajo tomarle foto.
 ![](https://cdn.discordapp.com/attachments/556529167529803776/696385923230990416/unknown.png)
 
-## No. 2 
+## No. 2 Pokémon
+**Tipo de construccion:** Pixelart libre
+**Periodo:** 06 de Abril 2020 a 15 de abril 2020
+**Premios:** 
+- 12 Bottle o Enchanting
+- 16 Iron Ingot
+- 2 Diamantes
+- 30 Enderpearl
+- 4 Coal Blocks
+- 3 Redstone Blocks
+- 3 Iron Blocks
+- 1 Boton
+
+## Construcciones!
+
