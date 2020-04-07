@@ -2,20 +2,20 @@
 title: Bienvenido a la wiki de NexusCraftChaos!
 description: NexusCraftChaos, tambien conocido como el servidor de mc de cp, 2c2p o 2n2m.
 published: true
-date: 2020-01-30T19:45:58.485Z
+date: 2020-04-07T18:02:45.228Z
 tags: 
 ---
 
 # Bienvenido al Caos
-![Server](https://img.shields.io/badge/IP-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version-1.14.X-sucess.svg)
+![Server](https://img.shields.io/badge/IP-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version-1.14.X&1.15.X-sucess.svg)
 
-NexuscraftChaos es el servidor de Minecraft del Discord de Centro Pokémon, su actual dueño es el usuario NxKarim.
+Nexuscraft-Chaos o solo Nexuscraft, es un servidor vanilla custom, su actual dueño es el usuario NxKarim.
 
-Es un servidor custom, lo más cercano a vanilla posible pero se cuenta con ciertas mecanicas y plugins adicionales.
+Un servidor custom configurado lo más cercano a vanilla posible pero se cuenta con ciertas mecanicas y plugins adicionales.
 
-El servidor como su nombre lo indica, es un servidor Caos, por lo cual hay pocas reglas, esto tiene la ventaja de darle mas libertad a los jugadores. Aunque el servidor no tenga tantas reglas, si tiene algunas, antes de entrar al servidor te recomendamos leer las [**Reglas**](./reglas) para evitar ser sancionado.
+El servidor como su nombre lo indica, es un servidor Caos, por lo cual hay pocas reglas, esto tiene la ventaja de darle mas libertad a los jugadores. Aunque el servidor no tenga tantas reglas, si que tiene, antes de entrar al servidor te recomendamos leer las [**Reglas**](./reglas) para evitar ser sancionado.
 
-Al entrar al servidor aceptas que leiste las reglas, ademas, cualquier objeto o contruccion que te roben o destruyan es tu responsabilidad y no del staff (aunque el staff te puede ayudar a recuperarlas dependiendo de lo que haya pasado)
+Al entrar al servidor aceptas que leiste las reglas.
 
 Tambien puedes leer algunas páginas de esta Wiki para familiarizarte con los memes y las mecanicas del servidor.
 
