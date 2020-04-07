@@ -2,13 +2,13 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2020-01-28T22:00:32.774Z
+date: 2020-04-07T18:03:16.326Z
 tags: 
 ---
 
 # Reglas del Servidor
 
-La version del servidor es: **1.14.X** en **Java Edition**.
+La version del servidor es: **1.15.X** en **Java Edition**.
 La IP del servidor es: **NexusCraftChaos.serv.gs**
 
 Se recomienda el uso de **Optifine**, puedes descargarlo [aquí](https://cdn.discordapp.com/attachments/556529167529803776/593472868411506688/preview_OptiFine_1.14.3_HD_U_F1_pre15.jar).
