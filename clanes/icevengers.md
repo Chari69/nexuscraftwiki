@@ -2,7 +2,7 @@
 title: Icevengers
 description: 
 published: true
-date: 2020-04-04T20:13:53.632Z
+date: 2020-04-07T17:46:42.126Z
 tags: 
 ---
 
@@ -36,4 +36,4 @@ El nuevo objetivo desde el inicio de la Natectadura:
 
 ## Base Icevenger
 
-???
+![](https://cdn.discordapp.com/attachments/545128014942437376/697139828546076792/2020-04-06_21.47.51.png)
