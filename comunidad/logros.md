@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
 published: true
-date: 2020-04-04T22:50:17.469Z
+date: 2020-04-10T07:50:26.327Z
 tags: 
 ---
 
@@ -17,6 +17,10 @@ tags:
 ### Hecho por Yyeellooww7, NxKarim y Antzk
 ## Negrificador de Negros 
 ### Hecha por Chari
+<!--Zona de encantamientos:
+![negrificador2.png](/img/negrificador2.png)
+Zona de matanza negra:
+![negrificador1.png](/img/negrificador1.png)-->
 ## Endbridge
 ### Hecho por NxKarim
 
