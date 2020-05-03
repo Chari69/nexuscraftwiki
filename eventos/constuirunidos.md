@@ -2,7 +2,7 @@
 title: Construyendo Unidos
 description: Evento permanente en el server donde cada cierto tiempo se da una tematica a construir entre todos, y se otorgan premios acorde a lo creado!
 published: true
-date: 2020-04-07T00:18:28.744Z
+date: 2020-05-03T00:53:04.191Z
 tags: 
 ---
 
@@ -54,4 +54,14 @@ Para ser mas especificos, si solo un jugador construye algo, se llevará el prem
 - 1 Boton
 
 ## Construcciones!
+### Necrozma By Alan, Chari y Ant.
+> Alabado sea negrozma
+![](https://cdn.discordapp.com/attachments/465266020060364803/706302643793952798/unknown.png)
 
+### Sobble By Nate, Ant y Dam
+> Es bellisimo
+![](https://cdn.discordapp.com/attachments/556529167529803776/704794001013735514/unknown.png)
+
+### Popplio By Dam y Deemo
+> Popplio les da su amor
+![](https://cdn.discordapp.com/attachments/465266020060364803/706302879585009755/unknown.png)
