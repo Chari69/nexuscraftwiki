@@ -2,16 +2,16 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2020-04-07T18:03:16.326Z
+date: 2020-09-21T14:22:16.545Z
 tags: 
 ---
 
 # Reglas del Servidor
 
-La version del servidor es: **1.15.X** en **Java Edition**.
+La version del servidor es: **1.16.3** en **Java Edition**.
 La IP del servidor es: **NexusCraftChaos.serv.gs**
 
-Se recomienda el uso de **Optifine**, puedes descargarlo [aquí](https://cdn.discordapp.com/attachments/556529167529803776/593472868411506688/preview_OptiFine_1.14.3_HD_U_F1_pre15.jar).
+Se recomienda el uso de **Optifine**, puedes descargarlo [aquí](optifine.net).
 
 ¿No tienes Minecraft?, prueba [LauncherFenix](/launcherfenix_minecraft.exe) y podrás jugar en el servidor en pocos minutos.
 
@@ -34,6 +34,13 @@ Se recomienda el uso de **Optifine**, puedes descargarlo [aquí](https://cdn.dis
 **Incumplir el reglamento es motivo de baneo temporal o permanente del servidor de NexusCraft**
 
 
+## Reglas Circunstanciales
+
+Hay algunas reglas que dependen del momento y situación en el servidor, puedes preguntar a los usuarios si dichas normativas estan activas o no. 
+
+> Solo se permite 1 tipo de granja grande en el mundo, digase Granjas de Hierro, Enderman, Oro, Madera, Brujas.
+
+> No se permite tener activa una mobfarm mientras hay mas usuarios online, a menos que estos den permiso de hacerlo. Favor de poner un sistema de apagado y encendido a sus mobfarm.
 
 
 > *Aun puede haber cambios en estas reglas.*
