@@ -2,7 +2,7 @@
 title: ChaosMob
 description: Los chaosmob son mobs fuera de lo común que aparecen el el centro del mundo, si los derrotas, puedes llevarte premios
 published: true
-date: 2020-01-29T05:32:34.768Z
+date: 2020-10-08T04:25:54.956Z
 tags: 
 ---
 
@@ -39,8 +39,9 @@ Actualmente se conocen los nombres  de algunos ChaosMobs, son:
 - [Great StickySlime](./stickyslime) - **RAID TIER C+**
 - [Chaos Infinity & Toto's Fury](./ChaosToto) - **RAID TIER B**
 - [Spiritus Umbra](./ChaosUmbra) - **RAID TIER B**
+- [The Swarm](./ChaosSwarm) - **RAID TIER B+**
 ### Proximos ChaosMobs
-- The Swarm - **RAID TIER B**
+- Astral - **RAID TIER B+**
 - Builder - **RAID TIER ?**
 
 ## ChaosEggs (Chaos Revivals)
