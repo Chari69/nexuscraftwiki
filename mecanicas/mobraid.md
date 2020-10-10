@@ -2,7 +2,7 @@
 title: Mob Raids
 description: Un mob fuera de lo común hará spawn en el centro del mundo, entre varios jugadores deberán derrotarlo para ganar.
 published: true
-date: 2020-10-10T04:05:36.339Z
+date: 2020-10-10T04:09:39.943Z
 tags: 
 ---
 
@@ -20,9 +20,11 @@ Durante las mobraids algunas cosas del servidor son cambiadas temporalmente
 
 - El pvp es desactivado
 - Se activa el gamerule KeepInventory, para que asi no se pierdan los items y que los mismos no sean borrados al morir en batalla.
-- La [**Caja de bedrock**](/memes/maquina_de_lag_de_karim) es activada para poder realizar la mobraid.
+- Se hace tp activamente a los jugadores para traerlos al 0,0.
+- La [**Caja de bedrock**](/memes/maquina_de_lag_de_karim) es activada para poder realizar la mobraid. F
 
-
+> :white_check_mark: Actualmente el Nexuscraft DataPack se encarga de realizar las mobraid que correspondan.
+{.is-success}
  
 ## Tiers
 
