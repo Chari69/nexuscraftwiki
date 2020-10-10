@@ -2,7 +2,7 @@
 title: Mob Raids
 description: Un mob fuera de lo común hará spawn en el centro del mundo, entre varios jugadores deberán derrotarlo para ganar.
 published: true
-date: 2020-10-10T03:55:17.846Z
+date: 2020-10-10T04:05:36.339Z
 tags: 
 ---
 
@@ -21,6 +21,7 @@ Durante las mobraids algunas cosas del servidor son cambiadas temporalmente
 - El pvp es desactivado
 - Se activa el gamerule KeepInventory, para que asi no se pierdan los items y que los mismos no sean borrados al morir en batalla.
 - La [**Caja de bedrock**](/memes/maquina_de_lag_de_karim) es activada para poder realizar la mobraid.
+
 
  
 ## Tiers
