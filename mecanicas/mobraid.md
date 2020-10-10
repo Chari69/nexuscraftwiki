@@ -2,7 +2,7 @@
 title: Mob Raids
 description: Un mob fuera de lo común hará spawn en el centro del mundo, entre varios jugadores deberán derrotarlo para ganar.
 published: true
-date: 2020-10-10T04:10:31.061Z
+date: 2020-10-10T04:52:03.397Z
 tags: 
 ---
 
@@ -38,7 +38,7 @@ En una MobRaid siempre habrá un premio grande global de niveles de exp a todos 
 
 ## Mob Raid Revivals
 
-Es posible revivir ChaosMobs derrotados en el pasado e iniciar una mobraid por voluntad propia con el uso de un [**Chaos Egg**](./mecanicas/customcrafting/ChaosEgg), un item que se puede craftear con el uso de [**Chaos Crystals**](./mecanicas/customcrafting/ChaosCrystal) entre otros materiales para invocar el Chaosmob de preferencia.
+Es posible revivir ChaosMobs derrotados en el pasado e iniciar una mobraid por voluntad propia con el uso de un [**Chaos Egg**](./mecanicas/customcrafting/ChaosEgg), un item que se puede craftear con el uso de [**Chaos Crystals**](./mecanicas/mobraids/ChaosCrystal) entre otros materiales para invocar el Chaosmob de preferencia.
 
 En los revival los premios son diversos [**ChaosItems**](./mecanicas/customcrafting/ChaosCrystal) que se pueden usar para craftear [**ChaosArtifacts**](./mecanicas/customcrafting/ChaosArtifacts) replica, asi como niveles de experencia para todos los participantes.
 
