@@ -2,7 +2,7 @@
 title: ChaosMob
 description: Los chaosmob son mobs fuera de lo común que aparecen el el centro del mundo, si los derrotas, puedes llevarte premios
 published: true
-date: 2020-10-08T04:25:54.956Z
+date: 2020-10-10T04:07:35.034Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ Antes de su anuncio, fue revelada una imagen con **command blocks**, denominada 
 > "Los jugadores de NexusCraftCaos han derrotado a la primer amenaza que se ha aparecido en el mundo, la energia del caos se ha disipado, sin embargo, esta sigue aumentando..."
 > - Mensaje de **NxKarim** en #minecraft tras salir ganadores del primer Mob Raid. 
 
-Actualmente los jugadores de Nexuscraft han logrado derrotar a 5 Chaosmob, y es probable que continuen haciendolo.
+Actualmente los jugadores de Nexuscraft han logrado derrotar a 7 Chaosmob, y es probable que continuen haciendolo.
 
 ## Lore
 
