@@ -2,7 +2,7 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2020-04-10T04:03:59.806Z
+date: 2020-11-19T16:43:51.743Z
 tags: 
 ---
 
@@ -10,6 +10,125 @@ tags:
 {.is-success}
 # :fire: Changelog
 Aca se encuentran los cambios de cada version/update de NexusCraft Chaos.
+## **Update 3.2.0**
+
+Actualización a Minecraft 1.16.4
+Plugins Actualizados + Preparativos para la siguiente update interna.
+
+## **Update 3.1.2: Complete Chaos Update**
+
+Esta actualización está centrada en el sistema de eventos de las  MobRaid, se han hecho múltiples cambios a todo lo relacionado a los Chaosmob.
+
+**Definiciones Oficiales**
+> ChaosArena, ChaosMob, MobRaid, ChaosEgg, ChaosArtifact y ChaosItem.
+Las definiciones de estos las podrán encontrar en la wiki en las proximas semanas.
+
+**Arreglos a las MobRaid Revival**
+> Todos los Chaosmob en las MobRaid Revival ahora son totalmente funcionales para la versión actual del juego.
+
+> Todos los Chaosmob han sido cambiados ligeramente para balancearlos al nuevo sistema, incluyendo algunas mecánicas nuevas.
+
+> Todas las recetas de ChaosEgg han sido balanceadas con respecto al nuevo sistema. Si habian crafteado un ChaosEgg antes de esto pueden reclamar un premio de compensación. 
+
+> Todas las recetas de ChaosArtifacts han sido cambiadas para balanceo del nuevo sistema.
+
+> Algunos ChaosArtifacts han sido actualizados.
+
+> Los Chaosmob ahora se hacen TP de vuelta a 0,0 si salen de la ChaosArena.
+
+**El datapack del servidor ha evolucionado** 
+El Centro Pokemon datapack del usuario @Chari69#1010  se ha unido al nuevo sistema, creando el **NexusDatapack**.
+
+>  Ahora los chaosmob se ejecutan desde el datapack asi que adios a la maquina de lag.
+> ||Rip Maquina de Lag 2019-2020 f en el chat||
+
+> Con esto de nuevo si, se han reseteado los logros, pueden solicitarlos si así lo desean.
+
+> Nuevos logros y mecanicas relacionados a los chaosmob están en camino.
+
+**Nuevo sistema de las MobRaid Revivals**
+
+> Un nuevo ChaosItem hace presencia **Chaos Crystal**, este item es necesario para craftear los ChaosEgg a partir de ahora.
+> Se consigue de la misma forma que las cabezas de wither, matando mobs relacionados con los chaosmob existentes, y al igual que las cabezas estos son extremadamente raros.
+> La probabilidad de obtener un Chaos Crystal varia segun el mob, esta información estará en la Wiki en las proximas semanas.
+> El book of chaos y su crafteo han sido eliminados por consecuencia si tienen uno en posesión puede ser cambiado por un Chaos Crystal.
+
+> Como antes pero mejor los ChaosMob dan drops que puede ser usados para craftear los diversos **ChaosArtifacts Replica**, herramientas e items especiales extremadamente fuertes similares a los originales dados en las primeras MobRaid de cada. Además claro experencia premio se da a los que esten dentro de la ChaosArena ahora.
+
+**Dos Nuevas MobRaid Revival llegan** 
+
+> **Chaos Infinity & Toto's Fury**
+> Un aldeano que tenia su altar y canjeaba mending, una llama que murio viviendo y revivio. Materializados de los recuerdos de un mundo perdido, estos chaosmob demostrarán que no deben de olvidarse del pasado tan facilmente.
+> Drop: **Infinity Emerald** x2 cada.
+> ChaosArtifacts Replica: **Infinity Totem** & **Toto's Helmet**
+
+
+> **Spiritus Umbra**
+> Un ente creado de los espiritus caidos, una amalgama de almas que no deberia existir y unicamente trae oscuridad al mundo. Invocará más almas perdidas en su agonia.
+> Drop: **Spirit Fragments** x4 & 10% 
+> ChaosArtifacts Replica: **Spirit Wings Tier 1** -> **Spirit Wings Tier 2**
+
+**3 Totalmente Nuevos ChaosArtifacts y el Retorno de uno antiguo** 
+Gracias al estudio del **Swarmdust** se han podido crear ChaosArtifacts artificiales en base a este.
+> **Swarm Fang**
+> Asada modificada para tener el filo de un colmillo de araña, el nether scrap parece ser compatible con el swarmdust.
+> **Swarm Stinger**
+> Flechas modificadas con el poder de un aguijón de abeja, sin duda dejarán marca.
+> **Swarm Scale**
+> Los efectos del swarm dust en algas cocinadas parecen dar un material similar a las escamas de lepisma, pero al usarlo parece da las propiedades de dicho mob....
+Costó trabajo pero después de un gran análisis del slime de GreatStickySlime fue posible recuperar este ChaosArtifact, sin duda perderlo fue una lastima.
+> **Slimy Boots Replica**
+> Botas cubiertas del GreatStickySlimeballs, parece obtienen propiedades de rebote dignas de un slime.
+
+
+**ChaosArtifacts actualizados y algunos nuevos**
+
+> Algunos ahora poseen descripciones actualizadas y nuevas apariencias y efectos.
+
+> Infinity Totem & Toto's Helmet y Spirit Wings originales han sido buffeados.
+
+> Ahora los ChaosArtifact crafteados se definen como Replicas.
+
+> **Infinity Totem Replica**
+> Totem dorado y con olor a esmeraldas que irradia poder infinito, da poder a quien lo porta.
+
+> **Toto's Helmet Replica**
+> Casco resistente como cabeza de ravager, algunos dicen que huele a llama.
+
+> **Spirit Wings Replica Tier 1 /Tier 2**
+> Al unir fragmentos de almas a un elytra parece le mejora sus propiedades,hacerlo una segunda vez, mejora aun más estas.
+
+**Espero esta update les guste a todos, y disfruten de pelear contra los Chaosmob y conseguir los ChaosArtifacts Replica, tenia esta idea desde el aniversario y la estuve desarrollando desde que actualizamos a 1.16, con esto definitivamente podemos decir que el caos está en el server**
+
+**Gracias por Jugar y seguir jugando en Nexuscraft: Caos** 
+
+## Update 3.1.1
+### Crafting Revival + Abduzkan
+
+> **CustomCrafting está de vuelta :crafting:** 
+> Pueden ver todas las recetas custom en su book of knowledge, que se hace con 1 libro y 1 mesa de crafteo. 
+
+Y con eso nuevos crafteos:
+> HolyAbduzkanSword: Una espada potenciada por el poder de abduzkan a un nivel sagrado. 
+
+> Potion of Panic: Para cuando sea hora de correr. :S3RunFast: 
+
+> Bebida Abduzkan: Just.... no...
+
+## Update 3.1.0
+> Update a 1.16.3 Minecraft
+
+## Update 3.0.0  
+### The Infinite Infernal Villages
+
+> **Actualización a 1.16.1 The Nether Update**
+> ¡El Nether como nunca antes ha sido, biomas nuevos, piglins y hoglins, es hora de re-conquistar el Nether!
+Si quieren ver todas las novedades les recomiendo esta pagina: <https://minecraft.gamepedia.com/Java_Edition_1.16>
+
+> Datapack oficial by Chari actualizado, ahora considera la update a 1.16 para algunos logros.
+
+Nota: Custom Crafting está desactivado temporalmente, por motivos de compatibilidad.
+Nota 2: Reporten cualquier cosa que esté fuera de lo normal para revisarla.
 
 ## Update 2.0.2
 - Soporte para "The Swarm" Añadido".
