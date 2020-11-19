@@ -2,12 +2,14 @@
 title: Datapack
 description: 
 published: true
-date: 2020-03-05T19:41:37.997Z
+date: 2020-11-19T16:48:54.241Z
 tags: 
 ---
 
 # Nexuscraft DataPack
-Creado por Chari, este datapack otorga al servidor logros exclusivos del mismo.
+Anteriormente conocido como CP DataPack.
+
+Creado por Chari, este datapack añade al servidor logros nuevos y divertidos de conseguir, la expansión de este datapack por NxKarim añade soporte para las Mobraids.
 
 ## Logros
 
