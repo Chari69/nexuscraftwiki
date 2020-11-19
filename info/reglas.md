@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2020-11-19T03:15:54.164Z
+date: 2020-11-19T03:16:31.957Z
 tags: 
 ---
 
@@ -48,7 +48,7 @@ Hierro - Sadot03
 Oro - Triple y Darius
 Creepers/Polvora - Wither
 Madera - Sadot03
-Zona de Caza de Wither Skeleton - NxKarim, Antzk, Yyeelloow7
+Zona de Caza de Wither Skeleton - NxKarim, Antzk, Yyeelloow7, Rarita_
 
 
 > Se permiten versiones menores de granjas grandes, como granjas de hierro a muy pequeña escala.
