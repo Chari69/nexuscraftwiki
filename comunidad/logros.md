@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
 published: true
-date: 2020-10-08T04:43:53.369Z
+date: 2020-11-19T03:16:54.489Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ Se trata de una granja de hierro de 3 modulos localizada en una isla secreta (es
 ![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
 
 ## M.A.L. (Materializador de almas lúgubres)
-### Hecho por Yyeellooww7, NxKarim y Antzk
+### Hecho por Yyeellooww7, NxKarim,Antzk y Rarita_
 Netherfort optimizado para cazar wither skeletons, aun en construcción.
 
 ## Granja de Slimes sin nombre
