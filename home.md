@@ -2,22 +2,22 @@
 title: Bienvenido a la wiki de NexusCraftChaos!
 description: NexusCraftChaos, tambien conocido como el servidor de mc de cp, 2c2p o 2n2m.
 published: true
-date: 2020-04-07T18:02:45.228Z
+date: 2020-11-19T03:04:43.442Z
 tags: 
 ---
 
 # Bienvenido al Caos
-![Server](https://img.shields.io/badge/IP-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version-1.14.X&1.15.X-sucess.svg)
+![Server](https://img.shields.io/badge/IP:-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version:-1.16.4-sucess.svg)
 
 Nexuscraft-Chaos o solo Nexuscraft, es un servidor vanilla custom, su actual dueño es el usuario NxKarim.
 
 Un servidor custom configurado lo más cercano a vanilla posible pero se cuenta con ciertas mecanicas y plugins adicionales.
 
-El servidor como su nombre lo indica, es un servidor Caos, por lo cual hay pocas reglas, esto tiene la ventaja de darle mas libertad a los jugadores. Aunque el servidor no tenga tantas reglas, si que tiene, antes de entrar al servidor te recomendamos leer las [**Reglas**](./reglas) para evitar ser sancionado.
+El servidor como su nombre lo indica, es un servidor donde el caos reina, pero como jugadores podemos llevar el caos al orden, las pocas reglas permiten que ustedes como jugadores tengan mas libertades, pero es importante respetarlas, antes de entrar al servidor te recomendamos leer las [**Reglas**](./info/reglas) para evitar ser sancionado.
 
 Al entrar al servidor aceptas que leiste las reglas.
 
-Tambien puedes leer algunas páginas de esta Wiki para familiarizarte con los memes y las mecanicas del servidor.
+Tambien puedes leer algunas páginas de esta Wiki para familiarizarte con los memes y las mecanicas del servidor, como el Abduzkan y los ChaosMob.
 
 <!-- 
 - [**Abduzkan (Objeto)**](./abduzkan)
