@@ -2,7 +2,7 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2020-11-19T16:43:51.743Z
+date: 2020-11-19T16:46:35.939Z
 tags: 
 ---
 
@@ -15,8 +15,8 @@ Aca se encuentran los cambios de cada version/update de NexusCraft Chaos.
 Actualización a Minecraft 1.16.4
 Plugins Actualizados + Preparativos para la siguiente update interna.
 
-## **Update 3.1.2: Complete Chaos Update**
-
+## **Update 3.1.2**
+### Complete Chaos Update
 Esta actualización está centrada en el sistema de eventos de las  MobRaid, se han hecho múltiples cambios a todo lo relacionado a los Chaosmob.
 
 **Definiciones Oficiales**
