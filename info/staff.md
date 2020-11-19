@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-04-03T22:58:27.682Z
+date: 2020-11-19T03:07:51.557Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ Los miembros del staff actualmente son:
 - **NxKarim** - Owner del Servidor | Moderador de la Wiki
 - **Sadot04** - Administador del Servidor.
 - **CharizardGam3r** - Moderador del sv | Owner y admin de la Wiki.
-- **Nate** - Moderador del Servidor.
+- **Lukerizer/Nate** - Moderador del Servidor.
 
 # Donadores
 El servidor corre bajo un host de 3eros, lo cual requiere dinero para continuar manteniendo el servicio, esto permite tener mejor rendimiento del servidor, mayor soporte para plugins, cantidad de jugadores al mismo tiempo ilimitada, tener un backup del servidor y sobre todo: Que el servidor pueda estar online 24/7 para que puedan jugar en cualquier momento.
@@ -62,6 +62,21 @@ Donativo directo: https://server.pro/server/12215678.
 - **PandaFujisaki** - 5$
 ### Abril 
 - **Wither** - 10$
+### Mayo
+- **Wither** - 10$
+### Junio
+- **???***
+### Julio
+- **Wither** - 10$
+### Agosto
+- **Wartortle** -5$
+### Septiembre
+- **Wither** & **Tsukasa** 5$/5$
+### Octubre
+- **Wither** - 10$
+### Noviembre
+- **Wither** - 10$
 
 # Streamers
 - **Deanbits** - https://www.twitch.tv/deanbits
+- **Lukerizer** - https://www.twitch.tv/lukerizer
