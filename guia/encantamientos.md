@@ -2,7 +2,7 @@
 title: Guía de Encantamientos
 description: 
 published: true
-date: 2020-01-29T16:55:15.257Z
+date: 2020-11-19T16:35:30.676Z
 tags: 
 ---
 
@@ -74,10 +74,18 @@ Irrompible III
 Reparación 
  
 ### Azada
-**Azada Infinita**
+**Azada Deforestante**
+Efficiencia V
+Toque de Seda
 Irrompible III 
 Reparación 
- 
+
+**Azada multiplicadora**
+Efficiencia V
+Fortuna
+Irrompible III 
+Reparación 
+
 ### Arco
 
 **Arco de flechas infinitas**
@@ -123,8 +131,22 @@ Irrompible III
 Reparación 
 >No es recomendable tener una espada con todos los encantamientos, y menos recomendable es combinar empuje con saqueo por ejemplo, o aspecto igneo en una espada filo V, y menos mezclar Empuje y aspecto igneo. 
 {.is-success}
- 
- 
+
+### Tridentes 
+
+**Tridente Arrojable**
+Impaling/Empalamiento V
+Channeling/Conductividad 
+Loyalty/Lealtad III
+Unbreaking/Irrompible III
+Mending/Reparación
+
+**Tridente Propulsor**
+Impaling/Empalamiento V
+Riptide/Propulsión Acuatica III
+Unbreaking/Irrompible III
+Mending/Reparación
+
 > **Desde este punto las siguientes herramientas se pueden encantar únicamente mediante libro y yunque**
 {.is-warning}
   
