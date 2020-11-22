@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2020-11-19T03:17:05.081Z
+date: 2020-11-22T07:14:41.173Z
 tags: 
 ---
 
@@ -55,6 +55,8 @@ Zona de Caza de Wither Skeleton - NxKarim, Antzk, Yyeelloow7, Rarita_
 
 > No se permite tener activa una mobfarm mientras hay mas usuarios online, a menos que estos den permiso de hacerlo.
 Favor de poner un sistema de apagado y encendido a sus mobfarm.
+
+> No está pemitido modificar la ChaosArena con motivo de facilitar la batalla contra un Chaosmob al dejarlo atascado o hacerle una trampa.
 
 > *Es posible apelar un baneo, es mas es recomendado.*
 {.is-warning}
