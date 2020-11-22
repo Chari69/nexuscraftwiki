@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-11-19T03:07:51.557Z
+date: 2020-11-22T01:31:08.756Z
 tags: 
 ---
 
@@ -75,7 +75,11 @@ Donativo directo: https://server.pro/server/12215678.
 ### Octubre
 - **Wither** - 10$
 ### Noviembre
-- **Wither** - 10$
+- **Wither** & **Rarita** - 10$ / 5$ 
+
+### Diciembre -> 2021
+
+- **Fulgencio** & **Rarita** 5$ / 70$
 
 # Streamers
 - **Deanbits** - https://www.twitch.tv/deanbits
