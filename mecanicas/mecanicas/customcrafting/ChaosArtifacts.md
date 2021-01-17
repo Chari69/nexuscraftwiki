@@ -2,7 +2,7 @@
 title: ChaosArtifacts
 description: Objetos sumamente poderosos cargados de energia del caos, obtenibles en las MobRaids.
 published: true
-date: 2020-10-10T04:27:57.468Z
+date: 2021-01-17T20:58:42.491Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Es posible craftear replicas de los ChaosArtifact por medio de los ChaosItems en
 
 - **Armored Sword**, **Armored ChestPlate**
 - **Protector Bow**, **Protector Chestplate**
-- **Sobredosis**
+- **Sobredosis**, **Abduzkan Infinito Definitivo**
 - **Sinmara**, **Muspell Shield**, **Niu**, **Laevatein**
 - **Slime Heart**, **Slimy Boots**
 - **Infinity Totem**, **Toto's Helmet**
