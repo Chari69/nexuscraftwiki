@@ -2,7 +2,7 @@
 title: Memes
 description: Abduzkan!
 published: true
-date: 2020-01-31T01:29:24.854Z
+date: 2021-01-21T17:44:45.087Z
 tags: 
 ---
 
@@ -15,3 +15,7 @@ Como en toda comunidad hay ciertas cosas que llegan a superar todo, temas tan po
 ### [**#LeaveTheServer**](./memes/leaveserver)
 ### [**La maquina de lag de Karim**](./memes/maquina_de_lag_de_karim)
 ### [**Ser Nehgro**](./memes/nehgro)
+
+### **La Casa de Luke/Nate**
+![](https://cdn.discordapp.com/attachments/556529167529803776/730259747521036319/unknown.png)
+***Memes del servidor en una Imagen***
