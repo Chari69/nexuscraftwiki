@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
 published: true
-date: 2021-01-21T17:50:18.078Z
+date: 2021-01-21T18:07:19.100Z
 tags: 
 ---
 
@@ -57,3 +57,11 @@ Una granja de oro mamadisima.
 Un beacon completo de bloques de netherita, sin duda un logro impresionante y digno de admirarse.
 
 ![](https://cdn.discordapp.com/attachments/556529167529803776/801870098448515072/2021-01-21_11.44.06.png)
+
+## **Unificador Ferrico**
+### Hecho por Sadot03 y colaboración de la comunidad.
+La segunda granja de hierro del server, esta vez publica y mucho más eficiente, ubicada en el spawn para el uso de todos.
+
+## Granja de Polvora (wip)
+
+## Granja de Brujas (wip)
