@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
 published: true
-date: 2020-11-19T03:16:54.489Z
+date: 2021-01-21T17:48:20.548Z
 tags: 
 ---
 
@@ -11,8 +11,8 @@ tags:
 
 
 ## [**Witherficador de Hierro**](/comunidad/logros/witherhierro)
-### Hecha por Sadot03
-Se trata de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
+### Hecha por Sadot03 (Desactivada)
+Se trataba de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
 ![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
 
 ## M.A.L. (Materializador de almas lúgubres)
@@ -51,3 +51,7 @@ Una montaña rusa sin igual con vistas perfectas del nuevo nether.
 ### Hecho por Triple y Darius
 Una granja de oro mamadisima.
 
+
+## **Beacon de Netherite**
+### Hecho por Rarita_
+Un beacon completo de bloques de netherita, sin duda un logro impresionante.
