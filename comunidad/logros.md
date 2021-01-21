@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
 published: true
-date: 2021-01-21T17:48:20.548Z
+date: 2021-01-21T17:50:07.775Z
 tags: 
 ---
 
@@ -54,4 +54,6 @@ Una granja de oro mamadisima.
 
 ## **Beacon de Netherite**
 ### Hecho por Rarita_
-Un beacon completo de bloques de netherita, sin duda un logro impresionante.
+Un beacon completo de bloques de netherita, sin duda un logro impresionante y digno de admirarse.
+
+![](https://cdn.discordapp.com/attachments/556529167529803776/801870098448515072/2021-01-21_11.44.06.png)
