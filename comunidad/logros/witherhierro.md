@@ -2,7 +2,7 @@
 title: Witherficador de Hierro
 description: Granja de hierro hecha por el Clan Negro
 published: true
-date: 2020-04-04T22:49:03.989Z
+date: 2020-04-04T22:49:05.679Z
 tags: 
 ---
 

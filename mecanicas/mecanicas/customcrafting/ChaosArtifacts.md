@@ -2,7 +2,7 @@
 title: ChaosArtifacts
 description: Objetos sumamente poderosos cargados de energia del caos, obtenibles en las MobRaids.
 published: true
-date: 2021-01-17T20:58:42.491Z
+date: 2021-01-17T20:58:45.088Z
 tags: 
 ---
 

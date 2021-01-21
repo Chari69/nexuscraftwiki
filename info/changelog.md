@@ -2,7 +2,7 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2020-11-19T16:46:35.939Z
+date: 2020-11-19T16:46:37.652Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: Nexus CustomCrafting
 description: Mecanica que permite crafteos no existentes en Minecraft.
 published: true
-date: 2020-10-10T04:33:48.234Z
+date: 2020-10-10T04:33:50.289Z
 tags: 
 ---
 

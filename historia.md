@@ -2,7 +2,7 @@
 title: Historia del Servidor
 description: Todo mundo tiene una historia que contar
 published: true
-date: 2020-04-07T17:58:34.216Z
+date: 2020-09-23T02:41:44.224Z
 tags: 
 ---
 
@@ -70,7 +70,7 @@ Por suerte de todo el servidor, el sistema de donativos fue iniciado, y el usuar
 
 ## La primer base el surgimiento negro.
 
-El grupo de jugadores que votaron por caos, se unieron en un grupo, formando el primer clan del servidor, eventualmente se nombrarian a si mismos "Los Negroz",  crearon su primer base en un area medianamente lejana al spawn, bajo tierra y bastante oculta en un comienzo, para evitar ser encontrados.
+El grupo de jugadores que votaron por caos, se unieron en un grupo, formando el primer clan del servidor, eventualmente se nombrarian a si mismos "Los Negroz",  crearon su primer base en un area medianamente lejana al spawn, bajo tierra y bastante oculta en un comienzo, para evitar ser encontrados. 
 
 ## Paz entre los icebergs
 
@@ -78,8 +78,37 @@ El grupo de jugadores que votó por orden, y alguno que otro traidor al caos, al
 
 ## La Invasión Pigman
 
+Los portales del nether pueden ser muy utiles sin duda,sin embargo una mecanica en particular seria el miedo mas profundo del clan negro, el spawn de pigmans, estos se acumulaban en el portal de la primer base negra y aunque al comienzo eran controlables,un dia invadieron toda la base, un bucle de muertes evitaba que los negros pudieran recuperar su base, despues de muchas muertes y pelear, lograron recuperar la base negra, estos ataques de los pigman continuaron de vez en vez, y cada vez menos,sin embargo los negros nunca olvidarán aquel dia y aun tienen los traumas de dicho evento que casi implica el final del clan.
 
 ## Energia del Caos
 
+El caos era verdadero en el servidor, y en base a esto NxKarim creo una maquina de lag para detener las negreadas pero esto terminaria generando aun mas caos, de esta maquina surgieron los primeros ChaosMob, mobs especialmente fuertes que aparecen en 0,0, siendo The Protector & the Armored, sin duda seria la primer batalla contra Chaosmob de muchas por venir.
+La energia del caos se habia acumulado en 0,0 y cada dia seria aun más.
+
+
 ## Las Negreadas
 
+Sin duda los momentos mas oscuros del servidor fue cuando entre varios usuarios comenzaron asaltos a bases rivales y a usuarios espesificos, a estos asaltos y tambien masacre de usuarios se le conocio como las negreadas, negrear era una de las cosas mas importantes para sobrevivir en esta era sin embargo dicha acción comenzó a usarse con motivos cada vez mas egoistas o simplemente por diversión.
+Esta fue la epoca del mayor caos del servidor, y para muchos estaba claro, el servidor debia cambiar.
+
+## El caos vuelve a juntarse y esta vez es droga.
+
+Un segundo chaosmob aparece en 0,0 siendo este Ultimate Abduzkan, un Elder Guardian flotante que droga gente tanto que los mata de sobredosis con su rasho lazer. La batalla fue muy complicada por supuesto, aun asi los usuarios de Nexuscraft lograron derrotarlo obteniendo el Trindente Sobredosis, que hasta aun ahora es de las armas mas fuertes del servidor.
+
+## El gran abandono.
+
+Diversos usuarios por culpa de la naturaleza del mundo dejaron Nexuscraft por su propio bien, bajo las reglas del caos no todos estaban dispuestos a jugar algo similar a una anarquia.
+En este momento fue cuando el owner NxKarim se percató que el mundo no viviria mucho si no se hacia algo al respecto.
+
+
+## Caos vs Orden 2 La revancha.
+
+Se realizó una segunda votación para definir el destino del servidor a largo plazo, al comienzo ambos bandos estaban bastante parejos sin embargo, el hecho que el pvp seguiria activo y el reglamento seria bastante libre equilibró todos los votos a el nuevo orden en el reglamento.
+
+Orden habia ganado la segunda batalla y con eso el equilibrio habia sido alcanzado como todo deberia ser.
+
+> Dato curioso: Esta era solo duró 15 dias sin embargo fue una que marcaria el server para siempre.
+
+# Era del equilibrio.
+
+# Era de la paz

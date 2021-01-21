@@ -2,7 +2,7 @@
 title: Guia Color Codes / Codigos de Colores
 description: 
 published: true
-date: 2020-09-21T15:12:16.936Z
+date: 2020-10-03T22:01:11.396Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ tags:
 
 Los color codes o codigos de color son el formato que Minecraft permite en el texto para agregarle un color o formato al mismo.
 
-![](https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Minecraft_Formatting.gif/revision/latest/scale-to-width-down/292?cb=20200828001455)
+![](https://cdn.discordapp.com/attachments/465266020060364803/762071736622514196/Z.png)
 > Los caracteres y su función como color codes. Imagen por Minecraft Wiki.
 
 

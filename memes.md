@@ -2,7 +2,7 @@
 title: Memes
 description: Abduzkan!
 published: true
-date: 2021-01-21T17:49:04.364Z
+date: 2021-01-21T17:49:05.807Z
 tags: 
 ---
 

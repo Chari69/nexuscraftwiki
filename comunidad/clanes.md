@@ -2,7 +2,7 @@
 title: Clanes del Servidor
 description: 
 published: true
-date: 2020-09-21T14:39:01.930Z
+date: 2020-09-22T18:53:16.132Z
 tags: 
 ---
 
@@ -15,5 +15,5 @@ Hay 2 clanes conocidos hasta la fecha, son:
 | Clan       | Lider(es)          | Fecha de Creación        |
 |------------|--------------------|--------------------------|
 | [Negroz](/comunidad/clanes/negroz)     | Chari, Alan, Ant | 15-16 de Junio de 2019   |
-| [Icevengers](/comunidad/clanes/icevengers) |    Nico, Panda, Nate    | 20 de Junio de 2019 |
+| [Icevengers](/comunidad/clanes/icevengers) |    Yyeellooww7 , Nate (Anteriormente igual: Nico, Panda)   | 20 de Junio de 2019 |
 | [Los Grises](/comunidad/clanes/grises) |   Nate    | 2020 |

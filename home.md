@@ -2,7 +2,7 @@
 title: Bienvenido a la wiki de NexusCraftChaos!
 description: NexusCraftChaos, tambien conocido como el servidor de mc de cp, 2c2p o 2n2m.
 published: true
-date: 2020-11-19T03:05:04.387Z
+date: 2020-11-19T03:05:05.800Z
 tags: 
 ---
 

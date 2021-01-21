@@ -2,7 +2,7 @@
 title: Construyendo Unidos
 description: Evento permanente en el server donde cada cierto tiempo se da una tematica a construir entre todos, y se otorgan premios acorde a lo creado!
 published: true
-date: 2020-05-03T00:53:04.191Z
+date: 2020-05-03T00:53:08.726Z
 tags: 
 ---
 
