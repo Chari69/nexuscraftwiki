@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
 published: true
-date: 2021-01-21T17:50:07.775Z
+date: 2021-01-21T17:50:18.078Z
 tags: 
 ---
 
