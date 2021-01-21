@@ -2,7 +2,7 @@
 title: Memes
 description: Abduzkan!
 published: true
-date: 2021-01-21T17:44:45.087Z
+date: 2021-01-21T17:49:04.364Z
 tags: 
 ---
 
@@ -18,4 +18,3 @@ Como en toda comunidad hay ciertas cosas que llegan a superar todo, temas tan po
 
 ### **La Casa de Luke/Nate**
 ![](https://cdn.discordapp.com/attachments/556529167529803776/730259747521036319/unknown.png)
-***Memes del servidor en una Imagen***
