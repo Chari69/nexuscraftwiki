@@ -2,17 +2,20 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2020-11-22T01:31:11.429Z
+date: 2021-01-23T17:55:02.966Z
 tags: 
+editor: markdown
+dateCreated: 2021-01-23T06:13:11.263Z
 ---
 
 # Staff
 Los miembros del staff actualmente son:
 
-- **NxKarim** - Owner del Servidor | Moderador de la Wiki
-- **Sadot04** - Administador del Servidor.
-- **CharizardGam3r** - Moderador del sv | Owner y admin de la Wiki.
-- **Lukerizer/Nate** - Moderador del Servidor.
+- **NxKarim** - Owner del Servidor | Administrador de la Wiki
+- **Sadot04** - Administador del Servidor
+- **CharizardGam3r** - Moderador del Servidor | Owner de la Wiki.
+- **Lukerizer/Nate** - Moderador del Servidor | Moderador de la Wiki
+- **Wither** - Moderador del Servidor | Moderador de la Wiki
 
 # Donadores
 El servidor corre bajo un host de 3eros, lo cual requiere dinero para continuar manteniendo el servicio, esto permite tener mejor rendimiento del servidor, mayor soporte para plugins, cantidad de jugadores al mismo tiempo ilimitada, tener un backup del servidor y sobre todo: Que el servidor pueda estar online 24/7 para que puedan jugar en cualquier momento.
