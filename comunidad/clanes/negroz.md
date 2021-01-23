@@ -2,8 +2,10 @@
 title: Clan Negro
 description: El clan negro es una doctrina tipo secta para alabar a sus dioses Negrozma y Abduzkan el pez
 published: true
-date: 2020-04-17T08:06:46.705Z
+date: 2021-01-23T17:56:31.137Z
 tags: 
+editor: markdown
+dateCreated: 2021-01-23T06:14:06.129Z
 ---
 
 # Clan Negro
@@ -31,7 +33,7 @@ Comunismo aun.
 - Manteka (Inactivo)
 - Soon (Inactivo)
 - Ozo
-- Naoto
+- ~~Naoto~~
 
 ## Isla Negra / Pato Isla
 
