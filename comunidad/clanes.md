@@ -2,11 +2,13 @@
 title: Clanes del Servidor
 description: 
 published: true
-date: 2020-09-22T18:53:16.132Z
+date: 2021-01-23T17:39:36.810Z
 tags: 
+editor: markdown
+dateCreated: 2021-01-23T06:12:23.829Z
 ---
 
-> :warning: Esta página tiene poca informacion sobre los **Icevengers**, si tienes más informacion sobre ellos, no dudes en colocarla aquí.
+> Esta página tiene poca informacion sobre **Los Grises**, si tienes más informacion sobre ellos, no dudes en colocarla aquí.
 {.is-warning}
 # Clanes
 El en servidor los usuarios hacen **alianzas** para sobrevivir y progresar con mayor velocidad, asi como para jugar en comunidad.
@@ -14,6 +16,6 @@ El en servidor los usuarios hacen **alianzas** para sobrevivir y progresar con m
 Hay 2 clanes conocidos hasta la fecha, son:
 | Clan       | Lider(es)          | Fecha de Creación        |
 |------------|--------------------|--------------------------|
-| [Negroz](/comunidad/clanes/negroz)     | Chari, Alan, Ant | 15-16 de Junio de 2019   |
+| [Negroz](/comunidad/clanes/negroz)     | Chari, Alan, Ant | 15 de Junio de 2019   |
 | [Icevengers](/comunidad/clanes/icevengers) |    Yyeellooww7 , Nate (Anteriormente igual: Nico, Panda)   | 20 de Junio de 2019 |
 | [Los Grises](/comunidad/clanes/grises) |   Nate    | 2020 |
