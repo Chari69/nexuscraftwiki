@@ -2,12 +2,14 @@
 title: Bienvenido a la wiki de NexusCraftChaos!
 description: NexusCraftChaos, tambien conocido como el servidor de mc de cp, 2c2p o 2n2m.
 published: true
-date: 2020-11-19T03:05:05.800Z
+date: 2021-02-19T01:09:00.054Z
 tags: 
+editor: markdown
+dateCreated: 2021-01-23T06:12:13.270Z
 ---
 
 # Bienvenido al Caos
-![Server](https://img.shields.io/badge/IP:-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version:-1.16.4-sucess.svg)
+![Server](https://img.shields.io/badge/IP:-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version:-1.16.5-sucess.svg)
 
 Nexuscraft-Chaos o solo Nexuscraft, es un servidor vanilla custom, su actual dueño es el usuario NxKarim.
 
