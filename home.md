@@ -2,14 +2,13 @@
 title: Bienvenido a la wiki de NexusCraftChaos
 description: NexusCraftChaos es el servidor de Minecraft oficial del discord de Centro Pokémon. ¡Unete al servidor y disfruta jugando con nosotros!
 published: true
-date: 2021-04-17T23:43:12.017Z
+date: 2021-04-17T23:43:50.417Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:40:45.819Z
 ---
 
 # Bienvenido al Caos
-![Server](https://img.shields.io/badge/IP:-nexuscraftchaos.serv.gs-red.svg) ![Version de MC](https://img.shields.io/badge/Version:-1.16.5-sucess.svg)
 
 Nexuscraft-Chaos o solo Nexuscraft, es un servidor vanilla custom, su actual dueño es el usuario NxKarim.
 
