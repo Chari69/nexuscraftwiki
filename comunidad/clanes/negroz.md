@@ -2,10 +2,10 @@
 title: Clan Negro
 description: El clan negro es una doctrina tipo secta para alabar a sus dioses Negrozma y Abduzkan el pez
 published: true
-date: 2021-01-23T17:56:31.137Z
+date: 2021-04-17T23:36:46.788Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-23T06:14:06.129Z
+dateCreated: 2021-04-17T23:36:35.189Z
 ---
 
 # Clan Negro

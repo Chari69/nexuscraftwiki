@@ -2,8 +2,10 @@
 title: Guia Color Codes / Codigos de Colores
 description: 
 published: true
-date: 2020-10-03T22:01:11.396Z
+date: 2021-04-17T23:34:31.452Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:34:16.261Z
 ---
 
 > Esta pagina está incompleta sin embargo la informacion en ella puede ser utilizada

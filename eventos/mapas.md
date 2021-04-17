@@ -2,8 +2,10 @@
 title: Mapas
 description: De vez en cuando, se hacen eventos en otros mapas fuera del servidor.
 published: true
-date: 2020-01-31T00:18:12.736Z
+date: 2021-04-17T23:34:21.932Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:33:59.673Z
 ---
 
 # Eventos de Mapas

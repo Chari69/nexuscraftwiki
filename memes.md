@@ -2,8 +2,10 @@
 title: Memes
 description: Abduzkan!
 published: true
-date: 2021-01-21T17:49:05.807Z
+date: 2021-04-17T23:33:50.526Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:33:12.641Z
 ---
 
 # Memes de la comunidad

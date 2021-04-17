@@ -2,8 +2,10 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2020-11-19T16:46:37.652Z
+date: 2021-04-17T23:34:50.381Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:34:39.837Z
 ---
 
 > :white_check_mark: Esta página siempre se encuentra actualizada.

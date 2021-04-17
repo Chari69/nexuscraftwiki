@@ -2,10 +2,10 @@
 title: NexusCraft UHC
 description: Ultra HardCore, segunda edicion del UHC de Centro Pokémon
 published: true
-date: 2021-02-19T01:18:53.415Z
+date: 2021-04-17T23:34:26.582Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-23T06:12:44.607Z
+dateCreated: 2021-04-17T23:34:08.659Z
 ---
 
 > :warning::exclamation: Esta página esta en progreso, en otras palabras chari y karim son flojos

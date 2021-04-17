@@ -2,8 +2,10 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2020-11-22T07:14:42.736Z
+date: 2021-04-17T23:34:56.503Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:34:48.071Z
 ---
 
 # Reglas del Servidor

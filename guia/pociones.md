@@ -2,8 +2,10 @@
 title: Guía para hacer Pociones
 description: ¿No sabes hacer pociones o se te olvido como se hacia una? Entonces este es tu lugar.
 published: true
-date: 2020-01-29T16:52:58.650Z
+date: 2021-04-17T23:34:43.743Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:34:30.798Z
 ---
 
 # Guía para hacer Pociones

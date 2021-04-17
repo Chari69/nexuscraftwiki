@@ -2,8 +2,10 @@
 title: ChaosMob
 description: Los chaosmob son mobs fuera de lo común que aparecen el el centro del mundo, si los derrotas, puedes llevarte premios
 published: true
-date: 2020-10-10T04:07:36.974Z
+date: 2021-04-17T23:37:17.144Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:37:07.719Z
 ---
 
 # ChaosMob

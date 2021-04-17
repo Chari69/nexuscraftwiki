@@ -2,8 +2,10 @@
 title: Guía de Encantamientos
 description: 
 published: true
-date: 2020-11-19T16:35:33.009Z
+date: 2021-04-17T23:34:38.347Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:34:23.273Z
 ---
 
 # Encantamientos

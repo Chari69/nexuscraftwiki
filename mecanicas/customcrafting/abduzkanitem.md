@@ -2,8 +2,10 @@
 title: Abduzkan
 description: El abduzkan o el me abduzce es una droga poderosa que circula en el server.
 published: true
-date: 2020-01-30T18:11:58.281Z
+date: 2021-04-17T23:37:07.476Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:36:56.781Z
 ---
 
 # Abduzkan (Item)

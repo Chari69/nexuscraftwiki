@@ -2,10 +2,10 @@
 title: Clanes del Servidor
 description: 
 published: true
-date: 2021-01-23T17:39:36.810Z
+date: 2021-04-17T23:36:47.834Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-23T06:12:23.829Z
+dateCreated: 2021-04-17T23:33:26.667Z
 ---
 
 > Esta página tiene poca informacion sobre **Los Grises**, si tienes más informacion sobre ellos, no dudes en colocarla aquí.

@@ -2,8 +2,10 @@
 title: Historia del Servidor
 description: Todo mundo tiene una historia que contar
 published: true
-date: 2020-09-23T02:41:44.224Z
+date: 2021-04-17T23:33:41.924Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:33:01.376Z
 ---
 
 # La historia de Nexuscraft - Caos

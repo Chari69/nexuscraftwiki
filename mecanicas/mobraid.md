@@ -2,8 +2,10 @@
 title: Mob Raids
 description: Un mob fuera de lo común hará spawn en el centro del mundo, entre varios jugadores deberán derrotarlo para ganar.
 published: true
-date: 2020-11-22T05:55:45.726Z
+date: 2021-04-17T23:36:18.109Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:35:19.098Z
 ---
 
 ## ¿Que son las Mob Raids?

@@ -2,8 +2,10 @@
 title: The Protector & The Armored
 description: The Protector & The Armored fue el primer evento MobRaid del servidor.
 published: true
-date: 2020-01-29T05:09:43.800Z
+date: 2021-04-17T23:37:57.550Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:37:49.157Z
 ---
 
 # The Protector & The Armored

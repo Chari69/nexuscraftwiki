@@ -2,8 +2,10 @@
 title: Máquina de Lag de Karim
 description: osi osi
 published: true
-date: 2020-01-29T04:15:44.615Z
+date: 2021-04-17T23:36:10.797Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:36:04.109Z
 ---
 
 > :warning: Esta página no de debe tomar en serio.
