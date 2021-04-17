@@ -2,7 +2,7 @@
 title: Bienvenido a la wiki de NexusCraftChaos
 description: NexusCraftChaos es el servidor de Minecraft oficial del discord de Centro Pokémon. ¡Unete al servidor y disfruta jugando con nosotros!
 published: true
-date: 2021-04-17T23:44:04.101Z
+date: 2021-04-17T23:44:46.603Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:40:45.819Z
@@ -21,25 +21,11 @@ Al entrar al servidor aceptas que leiste las reglas.
 
 Tambien puedes leer algunas páginas de esta Wiki para familiarizarte con los memes y las mecanicas del servidor, como el Abduzkan y los ChaosMob.
 
-<!-- 
-- [**Abduzkan (Objeto)**](./abduzkan)
-- [**Mob Raids**](./chaosmob)
-- [**Reglas**](./reglas)
-- [**Staff, Donadores y Streamers**](./staff)
-- [**Iniciativa LeaveServer**](./leaveserver)
--->
+Iniciativa LeaveServer**](./leaveserver)
+
 ---
 ![](https://cdn.discordapp.com/attachments/556529167529803776/592191934903222292/cp.png)
 ***Memes del servidor en una Imagen***
-
-<!--## ¿Cómo edito en la Wiki?
-Editar en esta wiki es fácil, solo debes dale click al ícono que esta en la parte superior derecha de la wiki y registrarte con **Discord** (Ese es el único metodo de registro que esta activo, esto ayuda a evitar bandalismo en la wiki).
-
-Para evitar ser baneado de la wiki debes seguir y estas normas a la hora de editar:
-- Aplican las reglas de [Centro Pokémon](https://discord.gg/cpokemon)
-- No debes editar las páginas especiales del servidor ([Anuncios](./anuncios), [Reglas](./reglas), [Staff](./staff)).
-- No debes alterar fatalmente ninguno de los articulos.
-- **ESTA TOTALMENTE PROHIBIDO PONER IMAGENES NSFW EN ESTA WIKI.**-->
 
 ## Centro Pokémon Discord
 <a href="https://discord.gg/cpokemon">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/118264827201191937/widget.png?style=banner2)</a>
