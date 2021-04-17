@@ -1,9 +1,11 @@
 ---
 title: Logros de la Comunidad
-description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo 
+description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo
 published: true
-date: 2021-01-21T18:07:21.622Z
+date: 2021-04-17T23:47:12.813Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-17T23:33:38.393Z
 ---
 
 # Logros de la Comunidad
@@ -26,10 +28,9 @@ Granja de slime 200% eficiente, hizo falta un wither en la casa de ant para crea
 ## Negrificador de Negros 
 ### Hecha por Chari
 Se trata de la granja de enderman del servidor.
-<!--Zona de encantamientos:
 ![negrificador2.png](/img/negrificador2.png)
 Zona de matanza negra:
-![negrificador1.png](/img/negrificador1.png)-->
+![negrificador1.png](/img/negrificador1.png)
 
 ## Tuneles Monocromaticos
 ### Hechos por los clanes Icevengers,Negros y Grises.
