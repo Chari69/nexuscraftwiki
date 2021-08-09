@@ -2,7 +2,7 @@
 title: ChaosEgg
 description: Con estos items es posible revivir un chaosmob derrotado en el pasado
 published: true
-date: 2021-04-17T23:37:31.691Z
+date: 2021-08-09T23:30:04.260Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:37:24.136Z
