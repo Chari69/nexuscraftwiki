@@ -2,7 +2,7 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2021-04-17T23:34:50.381Z
+date: 2021-08-09T23:35:26.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:39.837Z
