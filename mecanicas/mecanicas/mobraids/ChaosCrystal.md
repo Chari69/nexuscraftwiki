@@ -2,7 +2,7 @@
 title: Chaos Crystals
 description: Crystales de caos en forma solida, son muy raros.
 published: true
-date: 2021-04-17T23:37:38.037Z
+date: 2021-08-09T23:21:39.466Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:37:31.789Z
