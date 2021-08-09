@@ -2,7 +2,7 @@
 title: Bienvenido a la wiki de NexusCraftChaos
 description: NexusCraftChaos es el servidor de Minecraft oficial del discord de Centro Pokémon. ¡Unete al servidor y disfruta jugando con nosotros!
 published: true
-date: 2021-04-17T23:45:46.984Z
+date: 2021-08-09T23:19:20.528Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:40:45.819Z
@@ -27,3 +27,7 @@ Tambien puedes leer algunas páginas de esta Wiki para familiarizarte con los me
 
 ## Centro Pokémon Discord
 <a href="https://discord.gg/cpokemon">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/118264827201191937/widget.png?style=banner2)</a>
+
+## Lukerinerz
+
+<a href="https://discord.gg/GR5Kvf7yD7">![DISCORD EMBED PLUGIN](https://discordapp.com/api/guilds/754117656407310367/widget.png?style=banner2)</a>
