@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2021-04-17T23:34:56.503Z
+date: 2021-08-09T23:39:19.848Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:48.071Z
