@@ -2,10 +2,10 @@
 title: Iniciativa LeaveServer
 description: ¿Eh, hay lag?, entonces escribe "Iniciativa LeaveServer" en el chat y admira lo que sucederá
 published: true
-date: 2021-04-17T23:35:54.770Z
+date: 2021-08-10T00:31:11.745Z
 tags: 
 editor: markdown
-dateCreated: 2021-04-17T23:35:54.770Z
+dateCreated: 2021-04-17T23:35:54.769Z
 ---
 
 # Iniciativa #LeaveServer
