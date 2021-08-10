@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo
 published: true
-date: 2021-08-10T00:28:17.835Z
+date: 2021-08-10T00:46:30.015Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:33:38.393Z
@@ -65,8 +65,10 @@ La segunda granja de hierro del server, esta vez publica y mucho más eficiente,
 ## Granja de Polvora (wip)
 ### Hecho por
 
-## Granja de Brujas (wip)
-### Hecho por
+## **El Embelezador**
+### Hecho por Jes y Rarita
+Una granja de brujas unica donde un monstruo marino está por atacar un barco.
+![](https://cdn.discordapp.com/attachments/498247945926475795/874451819567415366/unknown.png)
 
 ## [**Granja de Withers**](/comunidad/logros/gwithers)
 ### Hecho por Rarita, Jes, Boltund y Wither
