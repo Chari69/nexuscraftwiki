@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo
 published: true
-date: 2021-08-09T23:42:27.824Z
+date: 2021-08-10T00:24:25.168Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:33:38.393Z
@@ -51,18 +51,23 @@ Una montaña rusa sin igual con vistas perfectas del nuevo nether.
 ## El Triplificador de Oro
 ### Hecho por Triple y Darius
 Una granja de oro mamadisima.
-
+![](https://cdn.discordapp.com/attachments/498247945926475795/874446392033161256/unknown.png)
 
 ## **Beacon de Netherite**
 ### Hecho por Rarita_
 Un beacon completo de bloques de netherita, sin duda un logro impresionante y digno de admirarse.
 
-![](https://cdn.discordapp.com/attachments/556529167529803776/801870098448515072/2021-01-21_11.44.06.png)
 
 ## **Unificador Ferrico**
 ### Hecho por Sadot03 y colaboración de la comunidad.
 La segunda granja de hierro del server, esta vez publica y mucho más eficiente, ubicada en el spawn para el uso de todos.
 
 ## Granja de Polvora (wip)
+### Hecho por
 
 ## Granja de Brujas (wip)
+### Hecho por
+
+## Granja de Withers
+### Hecho por
+![](https://cdn.discordapp.com/attachments/498247945926475795/874446381069266994/unknown.png)
