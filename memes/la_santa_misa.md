@@ -2,7 +2,7 @@
 title: La Santa Misa
 description: Página dedicada a la oracion y a la santa misa de Toto y sus amigos.
 published: true
-date: 2021-04-17T23:35:54.604Z
+date: 2021-08-10T00:31:17.331Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:35:46.972Z
