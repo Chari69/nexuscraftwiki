@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo
 published: true
-date: 2021-08-10T00:24:25.168Z
+date: 2021-08-10T00:28:17.835Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:33:38.393Z
@@ -17,7 +17,7 @@ dateCreated: 2021-04-17T23:33:38.393Z
 Se trataba de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
 ![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
 
-## M.A.L. (Materializador de almas lúgubres)
+## [**M.A.L. (Materializador de almas lúgubres)**](/comunidad/logros/mal)
 ### Hecho por Yyeellooww7, NxKarim,Antzk y Rarita_
 Netherfort optimizado para cazar wither skeletons, aun en construcción.
 
@@ -68,6 +68,12 @@ La segunda granja de hierro del server, esta vez publica y mucho más eficiente,
 ## Granja de Brujas (wip)
 ### Hecho por
 
-## Granja de Withers
-### Hecho por
+## [**Granja de Withers**](/comunidad/logros/gwithers)
+### Hecho por Rarita, Jes, Boltund y Wither
 ![](https://cdn.discordapp.com/attachments/498247945926475795/874446381069266994/unknown.png)
+
+## [**Granja de Raids**](/comunidad/logros/gwithers)
+### Hecho por
+
+## [**Granja de Shulkers**](/comunidad/logros/gwithers)
+### Hecho por
