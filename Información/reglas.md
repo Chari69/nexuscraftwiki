@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2021-09-17T21:34:28.039Z
+date: 2021-09-17T21:38:35.706Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:48.071Z
@@ -60,6 +60,8 @@ Hay algunas reglas que dependen del momento y situación en el servidor, puedes 
 > No se permite tener activa una mobfarm mientras hay mas usuarios online, a menos que estos den permiso de hacerlo.
 
 > No está pemitido modificar la ChaosArena con motivo de facilitar la batalla contra un Chaosmob al dejarlo atascado o hacerle una trampa.
+
+> Bonus Regla 1: Causar mal ambiente, generar conflicto o formar parte de conflicto es motivo de sanción, mantegan un buen ambiente.
 
 > *Es posible apelar un baneo, es mas es recomendado, sean honestos y acepten sus errores.*
 {.is-warning}
