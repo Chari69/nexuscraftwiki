@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2021-08-09T23:35:31.863Z
+date: 2021-09-17T19:08:44.822Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:56.477Z
@@ -18,32 +18,35 @@ Los miembros del staff actualmente son:
 - **Wither** - Moderador del Servidor | Moderador de la Wiki
 
 # Donadores
-El servidor corre bajo un host de 3eros, lo cual requiere dinero para continuar manteniendo el servicio, esto permite tener mejor rendimiento del servidor, mayor soporte para plugins, cantidad de jugadores al mismo tiempo ilimitada, tener un backup del servidor y sobre todo: Que el servidor pueda estar online 24/7 para que puedan jugar en cualquier momento.
-
-Al donar 1 usd o más obtienes:
-
-- Rango "**Apoyo**" permantente en el servidor
-- Tu nombre en el apartado de donadores.
+El servidor corre bajo un host externo, por lo cual se requiere dinero para continuar manteniendo el servidor, esto permite tener mejor rendimiento del servidor, mayor soporte para plugins, cantidad de jugadores al mismo tiempo ilimitada, tener un backup del servidor y sobre todo: Que el servidor pueda estar online 24/7 para que puedan jugar en cualquier momento.
 
 Al donar 5 usd o más obtienes las siguientes recompenzas:
 
-- Lo anterior 
-- Sustituir el rango **Apoyo** a **Donador**.
+- Rango **Donador** en el servidor.
 - Uso sin limites del comando /skin.
 - Tu nombre en un mensaje en bucle en el servidor.
 - Tu item de cabeza de jugador.
 
 Al donar 10 usd o más obtienes:
-- Lo anterior+ 
+
+- Lo anterior.
 - Crafteo exclusivo y personalizado de tu cabeza de jugador.
 - 2 Items de ChaosDrop a elección.
 - Poder sustituir rango "**Donador**" por un rango personalizado.
-- Una herramienta custom especial con tu nombre en la descripción.
+- Poder pedir una herramienta personalizada y customizada con tu nombre en la descripción, está será balanceada correctamente a los estandares del servidor.(Max 1)
+
+Al donar 15usd o más obtienes:
+
+- Lo anterior.
+- Tu nombre estará de forma permanente en bucle en el servidor.
+- Pedir la cabeza de cualquier jugador (Máx: 1).
+- Poder pedir cualquier item personalizado y customizado con tu nombre en la descripción, este será balanceado correctamente a los estandares del servidor. (Max 1, Sustituye la recompenza del donativo de 10usd)
 
 Las recompensas deben ser reclamadas en el periodo del donativo.
 
 Donativo directo: https://server.pro/server/12215678.
 
+Los donativos son directos al servicio de host, el staff de Nexuscraft no es intermediario de esto.
 
 ## 2019
 ### Junio
@@ -80,9 +83,17 @@ Donativo directo: https://server.pro/server/12215678.
 ### Noviembre
 - **Wither** & **Rarita** - 10$ / 5$ 
 
-### Diciembre -> 2021
+### Diciembre / Enero / Febrero / Marzo
 
 - **Fulgencio** & **Rarita** 5$ / 70$
+
+### Abril / Mayo / Junio / Julio / Agosto
+
+- **Rarita** 100$
+
+### Septiembre
+
+- **Jes** & **Rarita** & **Belec** 5$ / 70$
 
 # Streamers
 - **Deanbits** - https://www.twitch.tv/deanbits
