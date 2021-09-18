@@ -2,7 +2,7 @@
 title: Anuncios & Changelog
 description: Anuncios y updates del servidor.
 published: true
-date: 2021-08-09T23:35:26.280Z
+date: 2021-09-18T05:09:15.753Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:39.837Z
@@ -12,6 +12,104 @@ dateCreated: 2021-04-17T23:34:39.837Z
 {.is-success}
 # :fire: Changelog
 Aca se encuentran los cambios de cada version/update de NexusCraft Chaos.
+
+
+## :pick: **Nexuscraft  3.3.1: The Custom Renovation** :pick: 
+
+**Recetas Custom Reparadas**
+> Todas las recetas han sido reparadas y renovadas, notarán diferencias en muchas de estas, sin embargo esto se hizo con motivos de balanceo y expansión del sistema.
+> 
+> De momento el libro de recetas está en su estado por defecto, en el futuro próximo volverá a estar mejor organizado.
+
+**ChaosEggs de nuevo crafteables**
+> De igual forma otra vez, vuelven los **mobraid revivals**, y se han editado algunas cosas para una mecanica por venir...
+
+**Reciclaje Caotico**
+> Ahora es posible fundir **Armored Core** y **Protector Barrier** en diamantes y hierro respectivamente.
+> Toma... tiempo...
+
+:honey_pot: **Great Honey** :honey_pot: 
+> Miel que adquirió propiedades magicas aun sabe como miel pero mejor... 
+> 
+> Nuevo item custom que ahora es ingrediente en tanto recetas viejas como nuevas.
+
+:strawberry: **Enchanted Berries** :strawberry: 
+> Bayas cubiertas de miel, son tan ricas que tienes mas defensa al comerlas, pero te distrae del combate, ohno.
+> 
+> Este item se hace con la Great Honey y Sweet Berries.
+
+## **Update 3.3.0**
+Actualización a Minecraft 1.16.5
+Plugins Actualizados.
+Algunos bugs del datapack arreglados.
+
+## :black_medium_small_square:**Nexuscraft Update 3.2.1: Light & Dark Revival Update V2** :sunny: 
+
+**Ajustes**
+> Se han hecho cambios a varios chaosmob para reparar algunos problemas frecuentes con los mismos.
+> 
+> Se han reparado bugs de los chaosmob.
+
+> Se ha actualizado el efecto del **Abduzkan Infinito Definitivo**
+
+> Los creeper no pueden spawnear en la Chaos Arena
+
+## :black_medium_small_square:**Nexuscraft Update 3.2.1: Light & Dark Revival Update** :sunny: 
+
+
+**Mob Raid Revivals Funcionales**
+
+> Es posible de vuelta craftear ChaosEggs y retar a los 6 Chaosmob cuya existencia puede ser traida de vuelta.
+
+> Se les dio un leve incremento de poder a todos los Chaosmob, para balancearlos al nivel actual del servidor. 
+> (Es posible que haya más ajustes en el futuro cercano)
+
+> Se han ajustado los drop rates de los Chaos Crystals.
+
+**Categorias de Crafteo**
+
+> En el book of knowledge podrán ver las recetas custom del servidor, ahora divididas en categorias para un mejor orden y entendimiento:
+
+> ChaosArtifacts
+> ChaosEggs
+> Abduzkan
+> ChaosTools
+> Almacenamiento
+> ChaosItems
+
+> Pueden hacer el Book of Knowledge con un libro y una mesa de crafteo.
+
+**ChaosTools**
+
+> Varios  conocerán algunas herramientas que existen por el server,que están separadas de los ChaosArtifacts.
+> Estas se reconocerán como ChaosTools.
+
+> Entre estas están las armas y herramientas creadas por festividades y premios.
+> Hay varias ChaosTools crafteables que pueden ver desde el Book of Knowledge
+
+**Nueva ChaosTool**
+
+:sunny: Light Arrows :sunny: 
+> Estas flechas de alto coste, cargan de energía de luz y orden a quien fue disparadas.
+> Otorgan Regeneration,Resistance,Fire Resistance, Absortion y Glowing.
+
+**Nuevo Crafteo de ChaosItem**
+
+:black_medium_small_square: Chaos Crystal :black_medium_small_square: 
+> Gastar los premios conseguidos por tener otro intento, puede ser buena idea si no se tiene suerte.
+
+:oncoming_police_car:  **Seguridad** :oncoming_police_car: 
+
+> Desde ahora el servidor cuenta con un plugin de registro e inicio de sesión.
+
+> Al entrar por primera vez ocupan realizar el comando
+>  ``/register contraseña contraseña``
+> Claro cambien "contraseña" por su contraseña
+
+> Para entrar hará falta que usen el comando
+> ``/login contraseña`` 
+
+
 ## **Update 3.2.0**
 
 Actualización a Minecraft 1.16.4
