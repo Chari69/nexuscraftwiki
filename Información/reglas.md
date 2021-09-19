@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2021-09-17T21:38:35.706Z
+date: 2021-09-19T03:18:10.914Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:48.071Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-17T23:34:48.071Z
 
 # Reglas del Servidor
 
-La version del servidor es: **1.16.5** en **Java Edition**.
+La version del servidor es: **1.17.1** en **Java Edition**.
 La IP del servidor es: **NexusCraftChaos.serv.gs**
 
 Se permite y recomienda el uso de **Optifine**, puedes descargarlo [aquí](optifine.net).
