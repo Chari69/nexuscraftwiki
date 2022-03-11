@@ -2,7 +2,7 @@
 title: Granjas de Nexuscraft
 description: Aqui se encuentran todas las granjas creadas en el servidor.
 published: true
-date: 2022-03-11T22:10:01.705Z
+date: 2022-03-11T22:32:45.731Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:47:20.895Z
@@ -26,7 +26,7 @@ Pueden ser publicas o privadas, que cuentan con requisitos para su uso.
 
 ## Listado
 
-## [**Witherficador de Hierro**](/ Comunidad/granjas/witherhierro)
+## [**Witherficador de Hierro**](/Comunidad/granjas/witherhierro)
 ### Hecha por Sadot03 (Desactivada)
 Se trataba de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
 ![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
