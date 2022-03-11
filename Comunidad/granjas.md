@@ -2,7 +2,7 @@
 title: Granjas de Nexuscraft
 description: Aqui se encuentran todas las granjas creadas en el servidor.
 published: true
-date: 2022-03-11T21:47:20.895Z
+date: 2022-03-11T21:52:32.339Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:47:20.895Z
@@ -25,3 +25,50 @@ Aquellas que cualquier jugador puede usar sin limites.
 Pueden ser publicas o privadas, que cuentan con requisitos para su uso.
 
 ## Listado
+
+## [**Witherficador de Hierro**](/comunidad/granjas/witherhierro)
+### Hecha por Sadot03 (Desactivada)
+Se trataba de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
+![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
+
+## [**M.A.L. (Materializador de almas lúgubres)**](/comunidad/logros/mal) (Publica)
+### Hecho por Yyeellooww7, NxKarim,Antzk y Rarita_
+Netherfort optimizado para cazar wither skeletons, aun en construcción.
+
+## Granja de Slimes sin nombre (Privada)
+### Hecha por el clan negro
+Granja de slime 200% eficiente, hizo falta un wither en la casa de ant para crearla.
+
+## Negrificador de Negros (Publica)
+### Hecha por Chari
+Se trata de la granja de enderman del servidor.
+![negrificador2.png](/img/negrificador2.png)
+Zona de matanza negra:
+![negrificador1.png](/img/negrificador1.png)
+
+## El Triplificador de Oro (Publica)
+### Hecho por Triple y Darius
+Una granja de oro mamadisima.
+![](https://cdn.discordapp.com/attachments/498247945926475795/874446392033161256/unknown.png)
+
+## **Unificador Ferrico** (Publica)
+### Hecho por Sadot03 y colaboración de la comunidad.
+La segunda granja de hierro del server, esta vez publica y mucho más eficiente, ubicada en el spawn para el uso de todos.
+
+## **El Embelezador**
+### Hecho por Jes y Rarita
+Una granja de brujas unica donde un monstruo marino está por atacar un barco.
+![](https://cdn.discordapp.com/attachments/498247945926475795/874451819567415366/unknown.png)
+
+## Granja de Polvora 
+### Hecho por Wither
+
+## [**Granja de Withers**](/comunidad/logros/gwithers)
+### Hecho por Rarita, Jes, Boltund y Wither
+![](https://cdn.discordapp.com/attachments/498247945926475795/874446381069266994/unknown.png)
+
+## [**Granja de Raids**](/comunidad/logros/graids) (Restringida)
+### Hecho por
+
+## [**Granja de Shulkers**](/comunidad/logros/gshulkers) (Restringida)
+### Hecho por Rarita, Jes, Boltund y Zefra
