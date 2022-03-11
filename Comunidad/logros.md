@@ -1,15 +1,14 @@
 ---
 title: Logros de la Comunidad
-description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo
+description: Para conmemorar aquellos acontecimientos importantes o retos superados en comunidad.
 published: true
-date: 2022-03-11T21:27:37.511Z
+date: 2022-03-11T21:40:00.797Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:33:38.393Z
 ---
 
 # Logros de la Comunidad
-
 
 
 ## [**Witherficador de Hierro**](/comunidad/logros/witherhierro)
