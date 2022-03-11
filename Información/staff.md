@@ -2,7 +2,7 @@
 title: Staff, Donadores y Streamers
 description: Lista de los miembros del Staff
 published: true
-date: 2021-09-17T19:08:44.822Z
+date: 2022-03-11T22:26:38.443Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:56.477Z
@@ -33,14 +33,14 @@ Al donar 10 usd o más obtienes:
 - Crafteo exclusivo y personalizado de tu cabeza de jugador.
 - 2 Items de ChaosDrop a elección.
 - Poder sustituir rango "**Donador**" por un rango personalizado.
-- Poder pedir una herramienta personalizada y customizada con tu nombre en la descripción, está será balanceada correctamente a los estandares del servidor.(Max 1)
+- Poder solicitar personalizar un arma, herramienta o armadura. (Max 1)
 
 Al donar 15usd o más obtienes:
 
 - Lo anterior.
 - Tu nombre estará de forma permanente en bucle en el servidor.
 - Pedir la cabeza de cualquier jugador (Máx: 1).
-- Poder pedir cualquier item personalizado y customizado con tu nombre en la descripción, este será balanceado correctamente a los estandares del servidor. (Max 1, Sustituye la recompenza del donativo de 10usd)
+- Poder pedir cualquier arma, herramienta o armadura, personalizado y customizado con tu nombre en la descripción, este será balanceado correctamente a los estandares del servidor. (Max 1, Sustituye la recompensa del donativo de 10usd)
 
 Las recompensas deben ser reclamadas en el periodo del donativo.
 
