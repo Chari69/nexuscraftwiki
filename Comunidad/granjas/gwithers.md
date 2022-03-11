@@ -2,14 +2,14 @@
 title: Granja de Withers
 description: 
 published: true
-date: 2022-03-11T22:15:56.291Z
+date: 2022-03-11T22:18:18.395Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-10T01:03:41.966Z
 ---
 
 # Granja de Withers
-La granja de Withers es ahora "pública"
+> La granja de Withers es ahora "pública"
 Desde hoy, se abren solicitudes para poder usarla, si estás interesada/o en utilizarla, primero deberás cumplir una serie de requisitos, los cuales deberán de ser confirmados por cualquiera de los creadores de la granja @Rarita, @Jes ∆∆∆ o @Wither Ya sea por MD o aquí mismo, mencionándonos con un ping.
 
 
