@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2021-09-19T03:18:10.914Z
+date: 2022-03-11T22:21:32.987Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:48.071Z
@@ -10,19 +10,19 @@ dateCreated: 2021-04-17T23:34:48.071Z
 
 # Reglas del Servidor
 
-La version del servidor es: **1.17.1** en **Java Edition**.
+La version del servidor es: **1.18.1** en **Java Edition**.
 La IP del servidor es: **NexusCraftChaos.serv.gs**
 
 Se permite y recomienda el uso de **Optifine**, puedes descargarlo [aquí](optifine.net).
 
-
 ***Aplican todas las reglas del servidor de Discord.***
+**Necesitas vincular tu cuenta de Discord al servidor para poder jugar**
 
 > Tener sentido común y mantener respeto entre jugadores.
 
 > No se permite el uso de Hacks, Mods y Cheats, asi como Resource Packs ventajosos.
 
-> No se permite **destruir**, **dañar** o **modificar** la propiedad de otros jugadores sin su permiso, esto incluye mobs con nametag así como construcciones publicas.
+> No se permite Destruir, Dañar o Modificar la propiedad de otros jugadores, esto incluye mobs con nametag así como construcciones publicas.
 
 > No se permiten robos de contenedores asi como de construcciones, con la única excepción de morir en combate.
 
@@ -30,7 +30,10 @@ Se permite y recomienda el uso de **Optifine**, puedes descargarlo [aquí](optif
 
 > No se permiten construcciones inapropiadas, ni maquinas que dañen el mapa o el servidor.
 
-Se permite el uso de Optifine 
+> Las bromas deben mantenerse a un nivel adecuado y únicamente con jugadores que estén dispuestos a recibirlas.
+
+> La construcción de granjas está limitada, se debe avisar cada que se hará algun tipo de granja, así el resto de la comunidad puede confirmar si ya existe o si se puede crear.
+
 
 **Incumplir el reglamento es motivo de baneo temporal o permanente del servidor de NexusCraft**
 
