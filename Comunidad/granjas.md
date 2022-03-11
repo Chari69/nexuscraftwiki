@@ -2,7 +2,7 @@
 title: Granjas de Nexuscraft
 description: Aqui se encuentran todas las granjas creadas en el servidor.
 published: true
-date: 2022-03-11T22:05:49.872Z
+date: 2022-03-11T22:10:01.705Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:47:20.895Z
@@ -26,12 +26,12 @@ Pueden ser publicas o privadas, que cuentan con requisitos para su uso.
 
 ## Listado
 
-## [**Witherficador de Hierro**](/comunidad/granjas/witherhierro)
+## [**Witherficador de Hierro**](/ Comunidad/granjas/witherhierro)
 ### Hecha por Sadot03 (Desactivada)
 Se trataba de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
 ![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
 
-## [**M.A.L. (Materializador de almas lúgubres)**](/comunidad/logros/mal)
+## [**M.A.L. (Materializador de almas lúgubres)**](/Comunidad/granjas/mal)
 ### Hecho por Yyeellooww7, NxKarim,Antzk y Rarita_
 Netherfort optimizado para cazar wither skeletons, aun en construcción.
 
@@ -63,12 +63,12 @@ Una granja de brujas unica donde un monstruo marino está por atacar un barco.
 ## Granja de Polvora 
 ### Hecho por Wither
 
-## [**Granja de Withers**](/comunidad/logros/gwithers)
+## [**Granja de Withers**](/Comunidad/granjas/gwithers)
 ### Hecho por Rarita, Jes, Boltund y Wither
 ![](https://cdn.discordapp.com/attachments/498247945926475795/874446381069266994/unknown.png)
 
-## [**Granja de Raids**](/comunidad/logros/graids) (Restringida)
+## [**Granja de Raids**](/Comunidad/granjas/graids) (Restringida)
 ### Hecho por
 
-## [**Granja de Shulkers**](/comunidad/logros/gshulkers) (Restringida)
+## [**Granja de Shulkers**](/Comunidad/granjas/gshulkers) (Restringida)
 ### Hecho por Rarita, Jes, Boltund y Zefra
