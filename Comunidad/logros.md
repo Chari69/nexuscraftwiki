@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Desde granjas hasta bases, se ha hecho de todo en este gran mundo, esta pagina es para conmemorarlo
 published: true
-date: 2021-08-10T00:47:22.018Z
+date: 2022-03-11T21:14:47.635Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:33:38.393Z
@@ -78,4 +78,4 @@ Una granja de brujas unica donde un monstruo marino está por atacar un barco.
 ### Hecho por
 
 ## [**Granja de Shulkers**](/comunidad/logros/gwithers)
-### Hecho por
+### Hecho por Rarita, Jes, Boltund y Zefra
