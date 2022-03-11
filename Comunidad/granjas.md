@@ -2,7 +2,7 @@
 title: Granjas de Nexuscraft
 description: Aqui se encuentran todas las granjas creadas en el servidor.
 published: true
-date: 2022-03-11T22:32:45.731Z
+date: 2022-03-11T22:38:53.334Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:47:20.895Z
@@ -39,7 +39,7 @@ Netherfort optimizado para cazar wither skeletons, aun en construcción.
 ### Hecha por el clan negro
 Granja de slime 200% eficiente, hizo falta un wither en la casa de ant para crearla.
 
-## Negrificador de Negros (Publica)
+## Negrificador Final (Publica)
 ### Hecha por Chari
 Se trata de la granja de enderman del servidor.
 ![negrificador2.png](/img/negrificador2.png)
