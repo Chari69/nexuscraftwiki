@@ -2,7 +2,7 @@
 title: Reglas
 description: A ti te andaba buscando, y ahora que te encontré. BAN BAN BAN
 published: true
-date: 2022-03-11T22:21:32.987Z
+date: 2022-03-11T22:21:44.319Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:34:48.071Z
@@ -66,7 +66,7 @@ Hay algunas reglas que dependen del momento y situación en el servidor, puedes 
 
 > Bonus Regla 1: Causar mal ambiente, generar conflicto o formar parte de conflicto es motivo de sanción, mantegan un buen ambiente.
 
-> *Es posible apelar un baneo, es mas es recomendado, sean honestos y acepten sus errores.*
+> *Es posible apelar un baneo, es mas, es recomendado, sean honestos y acepten sus errores.*
 {.is-warning}
 
 > *Siempre puede haber cambios en estas reglas.*
