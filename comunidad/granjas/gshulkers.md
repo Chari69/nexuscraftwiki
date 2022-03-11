@@ -2,7 +2,7 @@
 title: Granja de Shulkers
 description: Informaciòn sobre el uso de la granja y su construcciòn.
 published: true
-date: 2022-03-11T21:29:52.872Z
+date: 2022-03-11T21:31:08.375Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:24:13.894Z
@@ -20,7 +20,6 @@ Creada por Rarita, Jes, Boltund y Zefra, esta granja permite conseguir shulkersh
 
 ## Condiciones 
 Además deberás aceptar la condición de sólo poder obtener un stack de shulker shells por mes, contando los meses a partir del primer día de tu aceptación en la granja.
-
 
 Esto se debe al desbalance que provocaría a las partidas de las demás personas que no hayan estado tanto tiempo jugando o simplemente no tengan esos recursos aún, y se limíta la cantidad mensual para evitar problemas con otros usuarios y también, por que no es necesario, nadie ocupa 32 shulkers en un mes.
 
