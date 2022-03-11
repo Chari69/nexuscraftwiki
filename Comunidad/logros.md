@@ -2,7 +2,7 @@
 title: Logros de la Comunidad
 description: Para conmemorar aquellos acontecimientos importantes o retos superados en comunidad.
 published: true
-date: 2022-03-11T21:50:07.780Z
+date: 2022-03-11T21:52:38.149Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-17T23:33:38.393Z
