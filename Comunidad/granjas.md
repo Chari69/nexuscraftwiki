@@ -2,7 +2,7 @@
 title: Granjas de Nexuscraft
 description: Aqui se encuentran todas las granjas creadas en el servidor.
 published: true
-date: 2022-03-11T21:52:32.339Z
+date: 2022-03-11T22:05:49.872Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:47:20.895Z
@@ -31,7 +31,7 @@ Pueden ser publicas o privadas, que cuentan con requisitos para su uso.
 Se trataba de una granja de hierro de 3 modulos localizada en una isla secreta (es pay to win).
 ![](https://cdn.discordapp.com/attachments/556529167529803776/624750257669931039/2019-09-14_22.png)
 
-## [**M.A.L. (Materializador de almas lúgubres)**](/comunidad/logros/mal) (Publica)
+## [**M.A.L. (Materializador de almas lúgubres)**](/comunidad/logros/mal)
 ### Hecho por Yyeellooww7, NxKarim,Antzk y Rarita_
 Netherfort optimizado para cazar wither skeletons, aun en construcción.
 
