@@ -2,7 +2,7 @@
 title: Granjas de Nexuscraft
 description: Aqui se encuentran todas las granjas creadas en el servidor.
 published: true
-date: 2022-03-11T22:38:53.334Z
+date: 2022-03-12T01:38:04.910Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-11T21:47:20.895Z
@@ -66,9 +66,16 @@ Una granja de brujas unica donde un monstruo marino está por atacar un barco.
 ## [**Granja de Withers**](/Comunidad/granjas/gwithers)
 ### Hecho por Rarita, Jes, Boltund y Wither
 ![](https://cdn.discordapp.com/attachments/498247945926475795/874446381069266994/unknown.png)
-
+![](https://cdn.discordapp.com/attachments/779880416714162198/952001213640097803/2022-03-11_18.23.35.png)
 ## [**Granja de Raids**](/Comunidad/granjas/graids) (Restringida)
 ### Hecho por
 
 ## [**Granja de Shulkers**](/Comunidad/granjas/gshulkers) (Restringida)
 ### Hecho por Rarita, Jes, Boltund y Zefra
+![](https://cdn.discordapp.com/attachments/779880416714162198/952001214239899678/2.png)
+
+## [**Granja de Calamares**](/Comunidad/granjas/gcalamares)
+### Hecho por Rarita
+![](https://cdn.discordapp.com/attachments/779880416714162198/952001213937877042/2022-03-11_17.47.58.png)
+
+ 
